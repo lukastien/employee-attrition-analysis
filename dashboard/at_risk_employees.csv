@@ -1,0 +1,1234 @@
+employee_number,department,job_role,over_time,tenure_band,salary_band,monthly_income,annual_salary,attrition_probability,risk_tier,flagged
+411,Sales,Sales Representative,No,0-2 yrs,Low,1200,14400,0.9595,High,Yes
+2021,Sales,Sales Representative,Yes,2-5 yrs,Low,2380,28560,0.8948,High,Yes
+1974,Research & Development,Laboratory Technician,Yes,0-2 yrs,Low,1129,13548,0.8877,High,Yes
+1056,Sales,Sales Representative,No,0-2 yrs,Low,1052,12624,0.796,High,Yes
+643,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2127,25524,0.72,High,Yes
+1839,Research & Development,Research Scientist,No,0-2 yrs,Low,1514,18168,0.7171,High,Yes
+833,Research & Development,Manufacturing Director,Yes,0-2 yrs,High,6877,82524,0.669,High,Yes
+1036,Sales,Sales Executive,Yes,0-2 yrs,High,6861,82332,0.584,High,Yes
+1961,Sales,Sales Representative,No,0-2 yrs,Low,2858,34296,0.5776,High,Yes
+399,Sales,Sales Representative,No,2-5 yrs,Low,2789,33468,0.575,High,Yes
+1646,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,3760,45120,0.5738,High,Yes
+144,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2871,34452,0.5697,High,Yes
+1198,Research & Development,Laboratory Technician,No,2-5 yrs,Low,3033,36396,0.5501,High,Yes
+1030,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2380,28560,0.5481,High,Yes
+1495,Sales,Sales Representative,No,0-2 yrs,Low,2033,24396,0.5205,High,Yes
+1448,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2127,25524,0.5174,High,Yes
+1581,Research & Development,Research Scientist,No,0-2 yrs,Low,2061,24732,0.5165,High,Yes
+1391,Sales,Sales Executive,No,2-5 yrs,Very High,10596,127152,0.5158,High,Yes
+764,Research & Development,Healthcare Representative,No,5-10 yrs,High,6811,81732,0.5094,High,Yes
+1865,Human Resources,Human Resources,No,0-2 yrs,Low,2804,33648,0.508,High,Yes
+1296,Research & Development,Laboratory Technician,Yes,2-5 yrs,Mid,3867,46404,0.505,High,Yes
+54,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2341,28092,0.5045,High,Yes
+934,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2008,24096,0.4995,High,Yes
+1551,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2296,27552,0.4936,High,Yes
+910,Human Resources,Human Resources,Yes,2-5 yrs,Low,2277,27324,0.4927,High,Yes
+954,Sales,Sales Executive,No,0-2 yrs,Very High,9705,116460,0.4901,High,Yes
+379,Research & Development,Research Scientist,No,2-5 yrs,Mid,3230,38760,0.4707,High,Yes
+832,Research & Development,Laboratory Technician,No,0-2 yrs,Mid,5094,61128,0.4706,High,Yes
+424,Human Resources,Human Resources,No,2-5 yrs,High,6410,76920,0.4706,High,Yes
+434,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2478,29736,0.4612,High,Yes
+113,Sales,Sales Representative,No,0-2 yrs,Low,2322,27864,0.4527,High,Yes
+1269,Research & Development,Research Scientist,Yes,0-2 yrs,Low,2994,35928,0.4492,Medium,No
+22,Research & Development,Laboratory Technician,Yes,0-2 yrs,Low,2935,35220,0.4277,Medium,No
+201,Research & Development,Laboratory Technician,No,0-2 yrs,Low,1483,17796,0.4213,Medium,No
+1720,Research & Development,Research Scientist,No,5-10 yrs,Mid,3433,41196,0.4172,Medium,No
+744,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3708,44496,0.3983,Medium,No
+1224,Research & Development,Laboratory Technician,No,10+ yrs,Mid,3491,41892,0.3825,Medium,No
+1950,Sales,Sales Executive,No,10+ yrs,Very High,9888,118656,0.3731,Medium,No
+1735,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3295,39540,0.368,Medium,No
+618,Sales,Sales Executive,No,0-2 yrs,Mid,4306,51672,0.3517,Medium,No
+854,Research & Development,Research Scientist,No,2-5 yrs,Mid,3424,41088,0.3495,Medium,No
+974,Sales,Sales Representative,No,2-5 yrs,Low,2157,25884,0.3457,Medium,No
+1173,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3597,43164,0.3414,Medium,No
+1613,Sales,Sales Executive,No,5-10 yrs,High,5332,63984,0.3411,Medium,No
+1193,Research & Development,Research Scientist,No,0-2 yrs,Low,2552,30624,0.3351,Medium,No
+846,Sales,Sales Executive,Yes,5-10 yrs,Mid,4779,57348,0.3339,Medium,No
+885,Sales,Sales Executive,No,5-10 yrs,Mid,4256,51072,0.3319,Medium,No
+1753,Research & Development,Healthcare Representative,Yes,2-5 yrs,High,6294,75528,0.3226,Medium,No
+1650,Sales,Sales Executive,No,5-10 yrs,High,5869,70428,0.3102,Medium,No
+2010,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2837,34044,0.3074,Medium,No
+1070,Sales,Sales Executive,No,5-10 yrs,Very High,10686,128232,0.3049,Medium,No
+1680,Sales,Sales Representative,No,2-5 yrs,Low,2728,32736,0.301,Medium,No
+1226,Sales,Sales Representative,No,2-5 yrs,Low,2678,32136,0.3008,Medium,No
+62,Sales,Sales Executive,Yes,5-10 yrs,High,5772,69264,0.2963,Medium,No
+1756,Sales,Sales Executive,No,10+ yrs,Mid,5147,61764,0.2952,Medium,No
+1286,Research & Development,Laboratory Technician,Yes,2-5 yrs,Low,2154,25848,0.2915,Medium,No
+75,Research & Development,Laboratory Technician,Yes,2-5 yrs,Mid,4014,48168,0.289,Medium,No
+72,Sales,Sales Executive,Yes,2-5 yrs,Mid,4157,49884,0.2889,Medium,No
+7,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3468,41616,0.2871,Medium,No
+1396,Sales,Sales Executive,Yes,2-5 yrs,Mid,4078,48936,0.2857,Medium,No
+1496,Research & Development,Manufacturing Director,Yes,2-5 yrs,Very High,10209,122508,0.285,Medium,No
+1908,Sales,Sales Executive,No,2-5 yrs,High,5507,66084,0.2831,Medium,No
+1258,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2559,30708,0.2794,Medium,No
+2053,Research & Development,Laboratory Technician,Yes,2-5 yrs,Mid,4025,48300,0.2759,Medium,No
+1131,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2070,24840,0.2719,Medium,No
+436,Sales,Sales Executive,Yes,10+ yrs,High,5228,62736,0.2708,Medium,No
+1641,Research & Development,Manufacturing Director,Yes,2-5 yrs,High,7945,95340,0.2699,Medium,No
+1647,Research & Development,Research Scientist,No,2-5 yrs,Mid,3517,42204,0.2693,Medium,No
+1409,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2950,35400,0.2662,Medium,No
+1992,Research & Development,Laboratory Technician,Yes,2-5 yrs,Mid,3977,47724,0.2625,Medium,No
+1329,Sales,Sales Executive,No,10+ yrs,High,6151,73812,0.2555,Medium,No
+1515,Research & Development,Healthcare Representative,Yes,0-2 yrs,High,6388,76656,0.2533,Medium,No
+1254,Sales,Sales Executive,No,5-10 yrs,Mid,5171,62052,0.2518,Medium,No
+437,Sales,Sales Executive,Yes,5-10 yrs,Mid,4478,53736,0.2509,Medium,No
+1558,Research & Development,Research Scientist,No,0-2 yrs,Low,2451,29412,0.2483,Low,No
+1619,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,4066,48792,0.2468,Low,No
+61,Research & Development,Research Scientist,No,0-2 yrs,Low,3022,36264,0.2428,Low,No
+1543,Research & Development,Research Scientist,No,10+ yrs,Mid,4285,51420,0.2422,Low,No
+1303,Research & Development,Research Scientist,No,2-5 yrs,Low,2096,25152,0.2407,Low,No
+686,Research & Development,Laboratory Technician,Yes,2-5 yrs,Low,2659,31908,0.2401,Low,No
+2003,Research & Development,Laboratory Technician,Yes,2-5 yrs,Low,2660,31920,0.2396,Low,No
+732,Sales,Sales Executive,No,2-5 yrs,High,5405,64860,0.2386,Low,No
+2054,Research & Development,Research Scientist,No,5-10 yrs,Mid,3785,45420,0.2374,Low,No
+1883,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2062,24744,0.2347,Low,No
+1987,Human Resources,Human Resources,No,2-5 yrs,Low,2187,26244,0.2337,Low,No
+1724,Research & Development,Manufacturing Director,Yes,0-2 yrs,High,6516,78192,0.2308,Low,No
+1478,Sales,Sales Executive,No,10+ yrs,Mid,4759,57108,0.2297,Low,No
+1481,Sales,Sales Executive,No,0-2 yrs,Mid,4768,57216,0.2296,Low,No
+30,Research & Development,Research Scientist,No,0-2 yrs,Low,1232,14784,0.229,Low,No
+269,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,4425,53100,0.2278,Low,No
+1657,Sales,Sales Representative,No,2-5 yrs,Low,2783,33396,0.2272,Low,No
+912,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2532,30384,0.2254,Low,No
+120,Sales,Sales Executive,Yes,10+ yrs,High,5441,65292,0.2234,Low,No
+1710,Sales,Sales Representative,No,10+ yrs,Mid,4502,54024,0.2203,Low,No
+1678,Sales,Sales Executive,Yes,2-5 yrs,High,7082,84984,0.2196,Low,No
+1125,Sales,Sales Executive,No,0-2 yrs,High,7351,88212,0.2175,Low,No
+475,Sales,Sales Executive,Yes,2-5 yrs,Mid,4736,56832,0.2173,Low,No
+1055,Sales,Sales Representative,Yes,0-2 yrs,Low,2220,26640,0.2154,Low,No
+773,Research & Development,Research Scientist,Yes,0-2 yrs,Low,3057,36684,0.2144,Low,No
+2068,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,4404,52848,0.2137,Low,No
+2046,Sales,Sales Executive,No,5-10 yrs,Mid,4850,58200,0.2126,Low,No
+758,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2500,30000,0.2125,Low,No
+812,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2694,32328,0.2124,Low,No
+749,Sales,Sales Representative,No,0-2 yrs,Low,2642,31704,0.2122,Low,No
+518,Research & Development,Manufacturing Director,Yes,0-2 yrs,Mid,4197,50364,0.2107,Low,No
+1864,Sales,Sales Representative,No,5-10 yrs,Mid,3540,42480,0.2093,Low,No
+913,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2559,30708,0.2088,Low,No
+284,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2328,27936,0.206,Low,No
+311,Sales,Sales Representative,No,5-10 yrs,Low,2793,33516,0.2041,Low,No
+803,Research & Development,Manufacturing Director,Yes,10+ yrs,High,5980,71760,0.2031,Low,No
+451,Research & Development,Healthcare Representative,No,0-2 yrs,Very High,9985,119820,0.2023,Low,No
+645,Sales,Sales Representative,No,5-10 yrs,Low,2096,25152,0.2015,Low,No
+868,Sales,Sales Executive,No,0-2 yrs,High,6334,76008,0.1999,Low,No
+1762,Research & Development,Research Scientist,No,0-2 yrs,Low,2109,25308,0.1999,Low,No
+2040,Human Resources,Human Resources,Yes,5-10 yrs,Very High,8837,106044,0.1988,Low,No
+925,Sales,Sales Representative,Yes,2-5 yrs,Mid,3294,39528,0.1986,Low,No
+652,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3681,44172,0.1975,Low,No
+1654,Research & Development,Manufacturing Director,No,5-10 yrs,High,5295,63540,0.1973,Low,No
+862,Sales,Sales Executive,Yes,5-10 yrs,Very High,10934,131208,0.197,Low,No
+604,Sales,Sales Executive,Yes,5-10 yrs,High,6582,78984,0.1966,Low,No
+1244,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2235,26820,0.1959,Low,No
+1492,Sales,Sales Representative,No,0-2 yrs,Low,2404,28848,0.1929,Low,No
+904,Sales,Sales Executive,Yes,10+ yrs,High,7642,91704,0.1907,Low,No
+446,Sales,Sales Executive,No,5-10 yrs,Mid,4682,56184,0.1905,Low,No
+183,Sales,Sales Executive,No,2-5 yrs,High,8639,103668,0.1905,Low,No
+1154,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2703,32436,0.1861,Low,No
+792,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,4364,52368,0.1857,Low,No
+1605,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2814,33768,0.1851,Low,No
+1918,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2544,30528,0.1821,Low,No
+527,Sales,Sales Executive,Yes,5-10 yrs,Mid,4487,53844,0.1817,Low,No
+1049,Human Resources,Human Resources,No,5-10 yrs,Low,2177,26124,0.1816,Low,No
+1681,Sales,Sales Executive,Yes,5-10 yrs,High,5368,64416,0.1808,Low,No
+1659,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2013,24156,0.1807,Low,No
+1853,Sales,Sales Executive,No,0-2 yrs,Mid,4648,55776,0.1796,Low,No
+1453,Sales,Sales Executive,No,10+ yrs,Very High,10793,129516,0.1785,Low,No
+1001,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2811,33732,0.1778,Low,No
+1577,Research & Development,Research Scientist,No,0-2 yrs,Low,2972,35664,0.1775,Low,No
+1502,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3838,46056,0.1772,Low,No
+1136,Research & Development,Research Scientist,No,5-10 yrs,Low,3201,38412,0.1767,Low,No
+591,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2093,25116,0.1747,Low,No
+79,Research & Development,Laboratory Technician,No,10+ yrs,Low,2406,28872,0.1746,Low,No
+2019,Sales,Sales Representative,No,5-10 yrs,Mid,3482,41784,0.1735,Low,No
+602,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3755,45060,0.1724,Low,No
+39,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2496,29952,0.1718,Low,No
+1234,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2743,32916,0.1705,Low,No
+1856,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2105,25260,0.1701,Low,No
+746,Sales,Sales Executive,Yes,10+ yrs,Very High,13770,165240,0.1682,Low,No
+390,Research & Development,Healthcare Representative,Yes,5-10 yrs,Mid,4741,56892,0.1682,Low,No
+1297,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2838,34056,0.1674,Low,No
+11,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2693,32316,0.1647,Low,No
+2060,Sales,Sales Representative,No,2-5 yrs,Low,2966,35592,0.1645,Low,No
+396,Research & Development,Research Director,Yes,2-5 yrs,Very High,18665,223980,0.1626,Low,No
+1929,Sales,Sales Executive,No,2-5 yrs,High,5736,68832,0.162,Low,No
+1368,Research & Development,Laboratory Technician,No,0-2 yrs,Low,1611,19332,0.1609,Low,No
+2020,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2436,29232,0.1593,Low,No
+277,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,3815,45780,0.159,Low,No
+549,Research & Development,Manager,No,10+ yrs,Very High,19566,234792,0.1588,Low,No
+1916,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3978,47736,0.1579,Low,No
+837,Research & Development,Healthcare Representative,No,2-5 yrs,High,6288,75456,0.1574,Low,No
+1642,Human Resources,Human Resources,Yes,10+ yrs,High,5743,68916,0.1564,Low,No
+1924,Sales,Sales Executive,No,10+ yrs,High,5487,65844,0.1564,Low,No
+656,Sales,Sales Executive,Yes,2-5 yrs,Very High,9602,115224,0.1558,Low,No
+772,Research & Development,Laboratory Technician,No,10+ yrs,High,5309,63708,0.154,Low,No
+766,Sales,Sales Representative,No,2-5 yrs,Low,2297,27564,0.1526,Low,No
+1669,Sales,Sales Executive,Yes,10+ yrs,Mid,4187,50244,0.1513,Low,No
+49,Sales,Sales Representative,No,2-5 yrs,Low,2014,24168,0.151,Low,No
+466,Research & Development,Manufacturing Director,Yes,5-10 yrs,High,6032,72384,0.1503,Low,No
+1135,Sales,Sales Representative,No,2-5 yrs,Low,2791,33492,0.1495,Low,No
+682,Sales,Sales Executive,No,10+ yrs,High,8381,100572,0.149,Low,No
+1292,Research & Development,Research Scientist,Yes,0-2 yrs,Low,2372,28464,0.1485,Low,No
+933,Research & Development,Research Scientist,No,0-2 yrs,Low,2318,27816,0.1481,Low,No
+1675,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2440,29280,0.1481,Low,No
+899,Research & Development,Manufacturing Director,No,10+ yrs,Very High,10903,130836,0.1479,Low,No
+1718,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2305,27660,0.1479,Low,No
+1814,Research & Development,Healthcare Representative,No,2-5 yrs,High,6870,82440,0.1479,Low,No
+1556,Sales,Sales Representative,Yes,2-5 yrs,Low,2644,31728,0.1475,Low,No
+1591,Sales,Manager,Yes,0-2 yrs,Very High,19331,231972,0.1475,Low,No
+1622,Research & Development,Manufacturing Director,No,5-10 yrs,Mid,4877,58524,0.1464,Low,No
+1674,Research & Development,Laboratory Technician,Yes,2-5 yrs,Low,2587,31044,0.145,Low,No
+10,Research & Development,Laboratory Technician,Yes,0-2 yrs,Low,2670,32040,0.1428,Low,No
+1915,Sales,Sales Executive,Yes,2-5 yrs,High,8103,97236,0.1426,Low,No
+103,Human Resources,Human Resources,Yes,2-5 yrs,Mid,5021,60252,0.1426,Low,No
+956,Sales,Sales Executive,No,5-10 yrs,Mid,4294,51528,0.1418,Low,No
+738,Sales,Sales Representative,No,2-5 yrs,Mid,3875,46500,0.1413,Low,No
+1801,Sales,Sales Executive,No,2-5 yrs,High,7991,95892,0.1409,Low,No
+403,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2326,27912,0.1408,Low,No
+1138,Sales,Sales Executive,No,5-10 yrs,Very High,13120,157440,0.1405,Low,No
+941,Sales,Sales Representative,No,5-10 yrs,Low,2329,27948,0.1403,Low,No
+715,Research & Development,Research Scientist,No,0-2 yrs,Mid,4680,56160,0.1395,Low,No
+1766,Research & Development,Healthcare Representative,Yes,0-2 yrs,High,5811,69732,0.1379,Low,No
+155,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2835,34020,0.1378,Low,No
+467,Sales,Sales Representative,No,0-2 yrs,Low,2976,35712,0.1378,Low,No
+1836,Sales,Sales Executive,No,5-10 yrs,Mid,4684,56208,0.1377,Low,No
+1046,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,4025,48300,0.1362,Low,No
+704,Research & Development,Laboratory Technician,No,0-2 yrs,Low,1281,15372,0.1352,Low,No
+1118,Research & Development,Healthcare Representative,No,5-10 yrs,Very High,10445,125340,0.135,Low,No
+1935,Sales,Sales Executive,No,0-2 yrs,High,5380,64560,0.1346,Low,No
+363,Sales,Manager,Yes,5-10 yrs,Very High,16872,202464,0.1346,Low,No
+1882,Sales,Sales Executive,Yes,5-10 yrs,Very High,9713,116556,0.1346,Low,No
+556,Research & Development,Laboratory Technician,Yes,0-2 yrs,Low,1702,20424,0.1338,Low,No
+669,Sales,Sales Representative,No,2-5 yrs,Mid,3447,41364,0.1334,Low,No
+1211,Sales,Sales Executive,No,2-5 yrs,Mid,4115,49380,0.1326,Low,No
+1251,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,6833,81996,0.1312,Low,No
+1032,Research & Development,Manufacturing Director,Yes,5-10 yrs,Very High,13726,164712,0.1309,Low,No
+274,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4298,51576,0.1308,Low,No
+1787,Sales,Sales Executive,No,5-10 yrs,Mid,4189,50268,0.1307,Low,No
+592,Sales,Sales Executive,No,10+ yrs,Very High,9980,119760,0.1304,Low,No
+1102,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2207,26484,0.1303,Low,No
+321,Human Resources,Human Resources,No,2-5 yrs,Low,2267,27204,0.1303,Low,No
+793,Research & Development,Healthcare Representative,No,5-10 yrs,Mid,4335,52020,0.1301,Low,No
+330,Sales,Sales Representative,No,2-5 yrs,Mid,3931,47172,0.13,Low,No
+1350,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,4249,50988,0.1294,Low,No
+125,Sales,Sales Executive,No,10+ yrs,Mid,5010,60120,0.1288,Low,No
+1612,Sales,Sales Executive,No,10+ yrs,Mid,4385,52620,0.1284,Low,No
+1419,Human Resources,Human Resources,No,10+ yrs,High,7988,95856,0.1281,Low,No
+1275,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2875,34500,0.1278,Low,No
+1949,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2810,33720,0.1277,Low,No
+1779,Sales,Sales Executive,No,2-5 yrs,High,6029,72348,0.127,Low,No
+388,Sales,Sales Executive,No,10+ yrs,Mid,4554,54648,0.1238,Low,No
+1694,Research & Development,Research Scientist,No,2-5 yrs,Mid,3537,42444,0.1216,Low,No
+895,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2356,28272,0.1211,Low,No
+1425,Sales,Sales Executive,Yes,5-10 yrs,Very High,9278,111336,0.1206,Low,No
+359,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2794,33528,0.1203,Low,No
+1298,Research & Development,Manufacturing Director,Yes,5-10 yrs,Mid,4695,56340,0.1202,Low,No
+998,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,5488,65856,0.1192,Low,No
+1242,Research & Development,Research Director,Yes,0-2 yrs,Very High,13191,158292,0.1189,Low,No
+508,Sales,Sales Representative,No,0-2 yrs,Low,2476,29712,0.1188,Low,No
+216,Sales,Sales Representative,No,2-5 yrs,Low,2231,26772,0.1188,Low,No
+632,Sales,Sales Representative,No,2-5 yrs,Low,2400,28800,0.1186,Low,No
+81,Sales,Sales Executive,No,10+ yrs,High,7637,91644,0.1185,Low,No
+1586,Research & Development,Laboratory Technician,Yes,10+ yrs,Mid,4723,56676,0.1183,Low,No
+680,Research & Development,Research Scientist,No,0-2 yrs,Low,2083,24996,0.1183,Low,No
+496,Research & Development,Healthcare Representative,No,0-2 yrs,High,6540,78480,0.1178,Low,No
+733,Research & Development,Manufacturing Director,No,5-10 yrs,High,8793,105516,0.1173,Low,No
+1415,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3229,38748,0.1169,Low,No
+781,Sales,Sales Executive,No,5-10 yrs,High,6180,74160,0.1163,Low,No
+177,Human Resources,Human Resources,No,5-10 yrs,Low,2942,35304,0.116,Low,No
+1704,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,4930,59160,0.1151,Low,No
+616,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,6811,81732,0.1148,Low,No
+78,Research & Development,Manufacturing Director,Yes,5-10 yrs,High,6162,73944,0.1144,Low,No
+1477,Sales,Sales Executive,No,2-5 yrs,Mid,4373,52476,0.1143,Low,No
+783,Sales,Sales Representative,No,5-10 yrs,High,6632,79584,0.1143,Low,No
+1395,Sales,Sales Executive,No,5-10 yrs,Very High,9998,119976,0.1138,Low,No
+442,Research & Development,Manufacturing Director,No,10+ yrs,Very High,8943,107316,0.1133,Low,No
+1435,Research & Development,Laboratory Technician,No,10+ yrs,High,5810,69720,0.113,Low,No
+95,Research & Development,Research Scientist,No,0-2 yrs,Low,2501,30012,0.113,Low,No
+1506,Research & Development,Research Scientist,No,0-2 yrs,Low,1563,18756,0.1123,Low,No
+1860,Research & Development,Laboratory Technician,No,0-2 yrs,Mid,3968,47616,0.1123,Low,No
+982,Sales,Sales Executive,No,5-10 yrs,High,7264,87168,0.1119,Low,No
+1377,Research & Development,Laboratory Technician,No,5-10 yrs,High,5429,65148,0.111,Low,No
+1445,Sales,Sales Executive,Yes,5-10 yrs,Mid,4162,49944,0.1105,Low,No
+920,Research & Development,Manufacturing Director,No,0-2 yrs,Mid,4765,57180,0.1105,Low,No
+1358,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3669,44028,0.1104,Low,No
+382,Sales,Sales Executive,Yes,5-10 yrs,High,5605,67260,0.11,Low,No
+448,Research & Development,Laboratory Technician,No,5-10 yrs,High,5257,63084,0.1095,Low,No
+1440,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3500,42000,0.1093,Low,No
+903,Sales,Sales Executive,Yes,5-10 yrs,Mid,4537,54444,0.1091,Low,No
+1886,Research & Development,Manufacturing Director,Yes,2-5 yrs,Mid,4788,57456,0.1089,Low,No
+578,Research & Development,Laboratory Technician,No,0-2 yrs,Mid,3780,45360,0.1089,Low,No
+1965,Sales,Sales Executive,No,5-10 yrs,Mid,4105,49260,0.1087,Low,No
+728,Sales,Sales Executive,No,5-10 yrs,Mid,4960,59520,0.1086,Low,No
+547,Research & Development,Research Scientist,No,5-10 yrs,Mid,4556,54672,0.1084,Low,No
+1233,Sales,Sales Executive,Yes,10+ yrs,High,5220,62640,0.1082,Low,No
+1324,Sales,Sales Executive,Yes,10+ yrs,Very High,9852,118224,0.1075,Low,No
+412,Research & Development,Healthcare Representative,No,5-10 yrs,High,5661,67932,0.1075,Low,No
+1390,Sales,Sales Executive,Yes,5-10 yrs,High,6120,73440,0.1072,Low,No
+53,Research & Development,Laboratory Technician,No,0-2 yrs,Low,1951,23412,0.1072,Low,No
+1371,Sales,Sales Executive,No,5-10 yrs,Mid,5071,60852,0.1071,Low,No
+1411,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3629,43548,0.1071,Low,No
+705,Research & Development,Research Scientist,No,2-5 yrs,Low,2819,33828,0.1066,Low,No
+1880,Sales,Sales Executive,Yes,10+ yrs,High,5673,68076,0.1057,Low,No
+597,Sales,Manager,No,10+ yrs,Very High,16835,202020,0.1056,Low,No
+1066,Sales,Sales Executive,No,5-10 yrs,High,8396,100752,0.1056,Low,No
+1611,Research & Development,Laboratory Technician,Yes,10+ yrs,High,5769,69228,0.1051,Low,No
+879,Sales,Sales Executive,Yes,5-10 yrs,Mid,4194,50328,0.1046,Low,No
+729,Sales,Sales Executive,Yes,10+ yrs,Very High,10475,125700,0.1037,Low,No
+1927,Sales,Sales Executive,Yes,5-10 yrs,High,6834,82008,0.1036,Low,No
+1549,Research & Development,Laboratory Technician,Yes,10+ yrs,High,5207,62484,0.1031,Low,No
+1850,Research & Development,Laboratory Technician,Yes,5-10 yrs,Low,2379,28548,0.103,Low,No
+2045,Sales,Sales Executive,No,5-10 yrs,High,6652,79824,0.1025,Low,No
+897,Sales,Sales Executive,No,2-5 yrs,Very High,11836,142032,0.1023,Low,No
+1019,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2451,29412,0.1019,Low,No
+286,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2153,25836,0.1017,Low,No
+2009,Research & Development,Healthcare Representative,Yes,5-10 yrs,Mid,4878,58536,0.1017,Low,No
+57,Research & Development,Laboratory Technician,No,10+ yrs,Mid,4011,48132,0.1012,Low,No
+1816,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,9667,116004,0.1011,Low,No
+939,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2799,33588,0.1009,Low,No
+605,Research & Development,Manufacturing Director,Yes,10+ yrs,High,7406,88872,0.1008,Low,No
+1615,Research & Development,Manufacturing Director,No,5-10 yrs,Mid,4724,56688,0.1008,Low,No
+1164,Human Resources,Human Resources,No,5-10 yrs,Mid,4323,51876,0.1003,Low,No
+204,Sales,Sales Executive,No,10+ yrs,High,7295,87540,0.1001,Low,No
+1708,Sales,Sales Executive,No,10+ yrs,Very High,9241,110892,0.1,Low,No
+240,Sales,Sales Executive,Yes,5-10 yrs,Mid,5006,60072,0.1,Low,No
+1614,Research & Development,Manufacturing Director,Yes,2-5 yrs,Mid,4663,55956,0.0998,Low,No
+878,Human Resources,Human Resources,No,5-10 yrs,Low,2342,28104,0.0995,Low,No
+362,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2176,26112,0.0988,Low,No
+1587,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,6142,73704,0.0983,Low,No
+641,Sales,Sales Executive,No,5-10 yrs,High,6272,75264,0.0978,Low,No
+1826,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2705,32460,0.0972,Low,No
+662,Research & Development,Research Scientist,No,0-2 yrs,Low,2619,31428,0.0972,Low,No
+789,Sales,Sales Executive,No,10+ yrs,High,7587,91044,0.0969,Low,No
+273,Research & Development,Manufacturing Director,No,5-10 yrs,High,6261,75132,0.0968,Low,No
+1218,Sales,Sales Executive,Yes,5-10 yrs,Very High,8966,107592,0.0968,Low,No
+1539,Research & Development,Research Director,Yes,10+ yrs,Very High,14411,172932,0.0968,Low,No
+1875,Sales,Sales Representative,No,0-2 yrs,Low,2856,34272,0.0961,Low,No
+1105,Sales,Sales Executive,Yes,0-2 yrs,High,6694,80328,0.0959,Low,No
+2036,Sales,Sales Executive,No,10+ yrs,High,5406,64872,0.0955,Low,No
+493,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2657,31884,0.0953,Low,No
+260,Research & Development,Research Scientist,No,5-10 yrs,Low,2279,27348,0.0953,Low,No
+1507,Sales,Sales Executive,No,2-5 yrs,Mid,4898,58776,0.0953,Low,No
+936,Sales,Sales Executive,No,5-10 yrs,High,6244,74928,0.0953,Low,No
+1893,Research & Development,Research Scientist,Yes,0-2 yrs,Low,2933,35196,0.0951,Low,No
+1387,Sales,Sales Executive,No,5-10 yrs,Mid,4724,56688,0.0949,Low,No
+205,Sales,Sales Representative,Yes,5-10 yrs,Low,2306,27672,0.0934,Low,No
+1813,Research & Development,Research Scientist,No,2-5 yrs,Low,2438,29256,0.0934,Low,No
+329,Sales,Manager,Yes,10+ yrs,Very High,19068,228816,0.0929,Low,No
+1706,Sales,Sales Executive,Yes,10+ yrs,High,7847,94164,0.0915,Low,No
+1535,Sales,Sales Executive,Yes,10+ yrs,High,7083,84996,0.0915,Low,No
+945,Research & Development,Research Scientist,No,0-2 yrs,Low,2259,27108,0.0915,Low,No
+1588,Sales,Sales Executive,No,5-10 yrs,High,8237,98844,0.0911,Low,No
+281,Research & Development,Laboratory Technician,Yes,5-10 yrs,Low,2741,32892,0.0906,Low,No
+207,Sales,Sales Executive,No,5-10 yrs,Very High,8998,107976,0.0903,Low,No
+1585,Sales,Sales Executive,No,0-2 yrs,High,6815,81780,0.0901,Low,No
+1399,Sales,Sales Executive,No,2-5 yrs,High,6232,74784,0.09,Low,No
+1640,Research & Development,Research Scientist,No,5-10 yrs,Mid,3936,47232,0.0896,Low,No
+1951,Sales,Sales Executive,No,5-10 yrs,High,8628,103536,0.0894,Low,No
+930,Research & Development,Research Scientist,No,2-5 yrs,Low,2377,28524,0.0893,Low,No
+458,Sales,Sales Executive,No,5-10 yrs,High,6214,74568,0.0891,Low,No
+1132,Research & Development,Laboratory Technician,No,5-10 yrs,High,6782,81384,0.0888,Low,No
+1709,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2974,35688,0.0888,Low,No
+334,Research & Development,Research Scientist,No,0-2 yrs,Low,3072,36864,0.0886,Low,No
+1746,Human Resources,Human Resources,No,2-5 yrs,Low,2145,25740,0.0886,Low,No
+666,Sales,Sales Representative,Yes,5-10 yrs,Low,2579,30948,0.0884,Low,No
+1956,Research & Development,Research Scientist,No,10+ yrs,Mid,5003,60036,0.0876,Low,No
+699,Research & Development,Manufacturing Director,Yes,2-5 yrs,Very High,8847,106164,0.0873,Low,No
+1301,Research & Development,Research Scientist,No,2-5 yrs,Low,2080,24960,0.0872,Low,No
+1563,Human Resources,Human Resources,No,5-10 yrs,High,6077,72924,0.0871,Low,No
+397,Research & Development,Research Scientist,No,5-10 yrs,Mid,4485,53820,0.0869,Low,No
+351,Research & Development,Laboratory Technician,Yes,5-10 yrs,Low,2593,31116,0.0867,Low,No
+1239,Sales,Sales Executive,No,5-10 yrs,High,6852,82224,0.0864,Low,No
+1402,Research & Development,Research Scientist,Yes,10+ yrs,Mid,4081,48972,0.0864,Low,No
+306,Research & Development,Research Director,Yes,10+ yrs,Very High,12185,146220,0.0862,Low,No
+585,Sales,Sales Representative,No,2-5 yrs,Low,2983,35796,0.0858,Low,No
+586,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,7632,91584,0.0858,Low,No
+159,Research & Development,Research Scientist,No,10+ yrs,Low,2613,31356,0.0855,Low,No
+314,Sales,Sales Executive,No,10+ yrs,High,8789,105468,0.0851,Low,No
+568,Sales,Manager,No,0-2 yrs,Very High,14118,169416,0.0849,Low,No
+1148,Research & Development,Laboratory Technician,No,0-2 yrs,Mid,4272,51264,0.0849,Low,No
+1317,Research & Development,Research Director,Yes,2-5 yrs,Very High,16880,202560,0.0849,Low,No
+1945,Sales,Sales Executive,No,5-10 yrs,High,5561,66732,0.0848,Low,No
+470,Human Resources,Human Resources,Yes,2-5 yrs,Low,2696,32352,0.0848,Low,No
+305,Research & Development,Research Scientist,No,2-5 yrs,Low,2622,31464,0.0847,Low,No
+1150,Research & Development,Manufacturing Director,Yes,10+ yrs,Mid,5056,60672,0.0841,Low,No
+41,Research & Development,Laboratory Technician,No,10+ yrs,Low,2206,26472,0.084,Low,No
+2056,Sales,Sales Executive,No,10+ yrs,Very High,12031,144372,0.0833,Low,No
+1596,Research & Development,Laboratory Technician,No,10+ yrs,Mid,3407,40884,0.0831,Low,No
+1163,Sales,Sales Executive,No,5-10 yrs,High,5714,68568,0.0829,Low,No
+1412,Research & Development,Manufacturing Director,No,2-5 yrs,Very High,9362,112344,0.0825,Low,No
+1190,Sales,Sales Representative,No,0-2 yrs,Low,2827,33924,0.0824,Low,No
+484,Sales,Sales Representative,No,2-5 yrs,Low,2610,31320,0.0822,Low,No
+1568,Sales,Sales Executive,No,2-5 yrs,Very High,9250,111000,0.0818,Low,No
+1002,Research & Development,Laboratory Technician,Yes,5-10 yrs,Mid,3633,43596,0.0817,Low,No
+975,Sales,Sales Executive,No,5-10 yrs,Mid,4601,55212,0.0814,Low,No
+1739,Sales,Sales Executive,No,2-5 yrs,Very High,9610,115320,0.0812,Low,No
+110,Research & Development,Manufacturing Director,No,5-10 yrs,Mid,4325,51900,0.0809,Low,No
+1998,Research & Development,Research Scientist,Yes,2-5 yrs,High,5410,64920,0.0809,Low,No
+543,Research & Development,Manufacturing Director,Yes,5-10 yrs,High,7969,95628,0.0805,Low,No
+1202,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2168,26016,0.0803,Low,No
+238,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2088,25056,0.0802,Low,No
+957,Research & Development,Laboratory Technician,Yes,10+ yrs,Mid,4721,56652,0.0799,Low,No
+2062,Research & Development,Healthcare Representative,No,5-10 yrs,Very High,9991,119892,0.0799,Low,No
+1220,Sales,Sales Executive,No,10+ yrs,Mid,4539,54468,0.0798,Low,No
+230,Sales,Sales Executive,No,5-10 yrs,High,8686,104232,0.0795,Low,No
+2012,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2406,28872,0.0794,Low,No
+983,Sales,Sales Executive,Yes,5-10 yrs,High,5666,67992,0.0794,Low,No
+784,Research & Development,Research Scientist,No,2-5 yrs,Mid,3505,42060,0.0793,Low,No
+1430,Research & Development,Research Director,No,2-5 yrs,Very High,16422,197064,0.0793,Low,No
+164,Research & Development,Research Scientist,No,5-10 yrs,Low,2368,28416,0.079,Low,No
+428,Research & Development,Manager,No,10+ yrs,Very High,11878,142536,0.0789,Low,No
+577,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,4230,50760,0.0786,Low,No
+524,Research & Development,Manufacturing Director,No,10+ yrs,Mid,4306,51672,0.0786,Low,No
+829,Human Resources,Human Resources,No,5-10 yrs,Low,2143,25716,0.0782,Low,No
+1993,Research & Development,Healthcare Representative,No,10+ yrs,High,8633,103596,0.0779,Low,No
+698,Human Resources,Human Resources,No,5-10 yrs,Very High,10725,128700,0.0776,Low,No
+174,Sales,Sales Executive,No,2-5 yrs,Very High,9208,110496,0.0776,Low,No
+852,Research & Development,Healthcare Representative,No,5-10 yrs,High,5933,71196,0.0774,Low,No
+624,Research & Development,Healthcare Representative,No,2-5 yrs,Very High,10527,126324,0.0773,Low,No
+1560,Sales,Sales Executive,No,2-5 yrs,High,6392,76704,0.0768,Low,No
+1294,Research & Development,Manufacturing Director,Yes,10+ yrs,High,5410,64920,0.0766,Low,No
+1768,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2766,33192,0.0764,Low,No
+875,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2515,30180,0.0764,Low,No
+760,Human Resources,Human Resources,No,5-10 yrs,High,6389,76668,0.0763,Low,No
+1980,Research & Development,Manufacturing Director,Yes,5-10 yrs,Mid,4440,53280,0.0762,Low,No
+74,Sales,Sales Executive,No,5-10 yrs,Very High,9069,108828,0.0762,Low,No
+453,Sales,Sales Executive,Yes,2-5 yrs,High,7457,89484,0.0759,Low,No
+24,Research & Development,Research Scientist,Yes,2-5 yrs,Mid,3944,47328,0.0756,Low,No
+1364,Sales,Sales Representative,No,0-2 yrs,Low,2534,30408,0.0754,Low,No
+1216,Research & Development,Laboratory Technician,No,5-10 yrs,Low,3196,38352,0.0752,Low,No
+1028,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3917,47004,0.075,Low,No
+1833,Sales,Sales Executive,No,2-5 yrs,Very High,9637,115644,0.0748,Low,No
+106,Sales,Sales Executive,No,0-2 yrs,Very High,10239,122868,0.0746,Low,No
+1966,Research & Development,Manufacturing Director,No,0-2 yrs,Very High,9679,116148,0.0736,Low,No
+1403,Sales,Sales Executive,Yes,5-10 yrs,High,5769,69228,0.0733,Low,No
+497,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3816,45792,0.073,Low,No
+864,Sales,Sales Executive,Yes,5-10 yrs,Very High,10761,129132,0.0729,Low,No
+91,Sales,Sales Executive,No,2-5 yrs,High,5473,65676,0.0726,Low,No
+463,Sales,Sales Executive,Yes,5-10 yrs,High,8268,99216,0.0726,Low,No
+1062,Research & Development,Healthcare Representative,No,2-5 yrs,Mid,4107,49284,0.0725,Low,No
+1074,Research & Development,Manager,No,5-10 yrs,Very High,16756,201072,0.0724,Low,No
+872,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4775,57300,0.0724,Low,No
+1076,Sales,Sales Executive,No,0-2 yrs,Very High,10798,129576,0.0722,Low,No
+1185,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2376,28512,0.072,Low,No
+56,Sales,Sales Executive,No,5-10 yrs,High,8726,104712,0.072,Low,No
+611,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4262,51144,0.0719,Low,No
+80,Research & Development,Research Director,Yes,10+ yrs,Very High,18740,224880,0.0717,Low,No
+389,Research & Development,Laboratory Technician,Yes,10+ yrs,High,5415,64980,0.0716,Low,No
+1461,Human Resources,Human Resources,No,2-5 yrs,Low,2109,25308,0.0715,Low,No
+1171,Sales,Sales Executive,No,5-10 yrs,Mid,5155,61860,0.0714,Low,No
+206,Research & Development,Laboratory Technician,No,10+ yrs,Low,2348,28176,0.0711,Low,No
+425,Research & Development,Laboratory Technician,No,10+ yrs,High,5210,62520,0.0708,Low,No
+573,Sales,Sales Executive,No,10+ yrs,Very High,10266,123192,0.0707,Low,No
+621,Sales,Sales Executive,No,10+ yrs,High,5337,64044,0.0701,Low,No
+374,Research & Development,Manager,Yes,10+ yrs,Very High,19045,228540,0.0698,Low,No
+112,Research & Development,Manufacturing Director,No,5-10 yrs,High,7260,87120,0.0698,Low,No
+799,Research & Development,Manufacturing Director,Yes,5-10 yrs,High,5485,65820,0.0698,Low,No
+1434,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2099,25188,0.0698,Low,No
+1321,Research & Development,Manager,Yes,5-10 yrs,Very High,11916,142992,0.0696,Low,No
+245,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2288,27456,0.0693,Low,No
+1784,Sales,Sales Executive,No,10+ yrs,High,5468,65616,0.069,Low,No
+511,Research & Development,Research Scientist,No,2-5 yrs,Low,2244,26928,0.0689,Low,No
+51,Research & Development,Research Scientist,Yes,0-2 yrs,Mid,3419,41028,0.0687,Low,No
+1283,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,10512,126144,0.0686,Low,No
+1594,Research & Development,Laboratory Technician,Yes,2-5 yrs,High,5562,66744,0.0686,Low,No
+73,Research & Development,Research Director,Yes,10+ yrs,Very High,13458,161496,0.0681,Low,No
+162,Research & Development,Research Director,No,10+ yrs,Very High,19537,234444,0.0681,Low,No
+218,Research & Development,Research Scientist,No,2-5 yrs,Low,2024,24288,0.0675,Low,No
+275,Research & Development,Manufacturing Director,Yes,5-10 yrs,High,6804,81648,0.0674,Low,No
+1602,Sales,Manager,No,10+ yrs,Very High,17567,210804,0.0674,Low,No
+1633,Research & Development,Manufacturing Director,No,5-10 yrs,Mid,5042,60504,0.0672,Low,No
+1721,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3477,41724,0.0672,Low,No
+1576,Research & Development,Research Scientist,No,5-10 yrs,Low,2367,28404,0.0669,Low,No
+532,Sales,Sales Executive,No,5-10 yrs,Very High,13212,158544,0.0665,Low,No
+856,Research & Development,Research Scientist,No,5-10 yrs,Low,2559,30708,0.0665,Low,No
+1609,Research & Development,Research Scientist,No,5-10 yrs,Low,2141,25692,0.0664,Low,No
+722,Sales,Sales Executive,No,10+ yrs,High,5396,64752,0.0664,Low,No
+1314,Human Resources,Human Resources,No,5-10 yrs,Mid,3423,41076,0.0662,Low,No
+2061,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2571,30852,0.0661,Low,No
+1011,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4148,49776,0.066,Low,No
+776,Sales,Manager,No,10+ yrs,Very High,16856,202272,0.0656,Low,No
+613,Sales,Manager,No,5-10 yrs,Very High,11557,138684,0.0656,Low,No
+1754,Sales,Sales Executive,No,5-10 yrs,High,7140,85680,0.0656,Low,No
+215,Sales,Sales Executive,No,10+ yrs,Very High,10855,130260,0.0656,Low,No
+1356,Sales,Sales Executive,No,10+ yrs,High,6125,73500,0.0656,Low,No
+473,Sales,Manager,No,0-2 yrs,Very High,12504,150048,0.0653,Low,No
+1760,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2468,29616,0.065,Low,No
+304,Research & Development,Laboratory Technician,No,10+ yrs,High,5914,70968,0.0649,Low,No
+97,Research & Development,Laboratory Technician,No,0-2 yrs,Low,3038,36456,0.0649,Low,No
+1617,Research & Development,Laboratory Technician,No,5-10 yrs,Low,3211,38532,0.0643,Low,No
+1012,Research & Development,Research Scientist,No,0-2 yrs,Low,1051,12612,0.0639,Low,No
+384,Research & Development,Manufacturing Director,No,5-10 yrs,High,6397,76764,0.0636,Low,No
+712,Sales,Sales Executive,No,2-5 yrs,High,8120,97440,0.0632,Low,No
+141,Research & Development,Research Director,Yes,5-10 yrs,Very High,18172,218064,0.063,Low,No
+1682,Research & Development,Healthcare Representative,No,2-5 yrs,High,5347,64164,0.0629,Low,No
+2064,Research & Development,Manufacturing Director,Yes,5-10 yrs,High,6142,73704,0.0628,Low,No
+1465,Research & Development,Manufacturing Director,Yes,2-5 yrs,Very High,9380,112560,0.0625,Low,No
+1428,Sales,Sales Executive,No,2-5 yrs,Mid,4779,57348,0.0625,Low,No
+1003,Sales,Sales Executive,Yes,5-10 yrs,Mid,4163,49956,0.0624,Low,No
+12,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,9526,114312,0.0624,Low,No
+855,Sales,Sales Executive,No,5-10 yrs,Mid,4037,48444,0.0619,Low,No
+498,Sales,Sales Executive,No,5-10 yrs,High,5253,63036,0.0618,Low,No
+1727,Research & Development,Healthcare Representative,No,10+ yrs,High,5562,66744,0.0618,Low,No
+747,Sales,Sales Executive,No,5-10 yrs,High,5304,63648,0.0618,Low,No
+1373,Research & Development,Manufacturing Director,Yes,10+ yrs,Very High,13402,160824,0.0615,Low,No
+1725,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3907,46884,0.0615,Low,No
+1179,Sales,Sales Executive,No,10+ yrs,High,6578,78936,0.0615,Low,No
+1529,Research & Development,Healthcare Representative,No,10+ yrs,High,8606,103272,0.0613,Low,No
+195,Sales,Sales Executive,No,5-10 yrs,Mid,4668,56016,0.0611,Low,No
+184,Human Resources,Human Resources,Yes,10+ yrs,High,6347,76164,0.061,Low,No
+462,Research & Development,Manufacturing Director,Yes,10+ yrs,High,7143,85716,0.061,Low,No
+1852,Research & Development,Laboratory Technician,No,10+ yrs,Mid,3812,45744,0.0609,Low,No
+152,Sales,Sales Executive,No,5-10 yrs,High,7428,89136,0.0606,Low,No
+1073,Research & Development,Manufacturing Director,No,10+ yrs,Very High,8858,106296,0.0606,Low,No
+639,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2725,32700,0.0602,Low,No
+1394,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2996,35952,0.0601,Low,No
+1541,Sales,Sales Representative,Yes,10+ yrs,Low,2308,27696,0.0601,Low,No
+2018,Sales,Sales Executive,Yes,5-10 yrs,Mid,4907,58884,0.0596,Low,No
+1881,Research & Development,Laboratory Technician,No,10+ yrs,Mid,4197,50364,0.0587,Low,No
+1401,Research & Development,Manufacturing Director,Yes,5-10 yrs,Very High,13247,158964,0.0587,Low,No
+615,Sales,Sales Executive,No,0-2 yrs,Very High,10932,131184,0.0585,Low,No
+1545,Research & Development,Manufacturing Director,No,5-10 yrs,Mid,4320,51840,0.0583,Low,No
+1083,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3955,47460,0.0581,Low,No
+486,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3452,41424,0.0581,Low,No
+1293,Sales,Sales Executive,No,10+ yrs,Very High,10231,122772,0.0579,Low,No
+1124,Sales,Manager,No,10+ yrs,Very High,17465,209580,0.0578,Low,No
+481,Sales,Sales Executive,No,10+ yrs,Very High,9699,116388,0.0575,Low,No
+1417,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3578,42936,0.0573,Low,No
+1736,Research & Development,Manufacturing Director,No,5-10 yrs,High,5238,62856,0.0573,Low,No
+430,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2455,29460,0.0572,Low,No
+2034,Research & Development,Manufacturing Director,No,10+ yrs,Very High,13570,162840,0.0571,Low,No
+1119,Sales,Sales Executive,Yes,5-10 yrs,High,8740,104880,0.0567,Low,No
+194,Research & Development,Research Scientist,No,5-10 yrs,Low,2632,31584,0.0566,Low,No
+1048,Sales,Manager,Yes,5-10 yrs,Very High,11904,142848,0.0562,Low,No
+1673,Sales,Sales Executive,No,10+ yrs,High,5476,65712,0.0561,Low,No
+176,Sales,Sales Executive,Yes,5-10 yrs,High,8189,98268,0.056,Low,No
+1374,Research & Development,Research Scientist,No,5-10 yrs,Low,2029,24348,0.0559,Low,No
+404,Sales,Sales Executive,No,10+ yrs,Very High,13525,162300,0.0559,Low,No
+717,Research & Development,Healthcare Representative,No,5-10 yrs,High,8621,103452,0.0558,Low,No
+84,Research & Development,Manager,Yes,5-10 yrs,Very High,14756,177072,0.0555,Low,No
+1909,Sales,Sales Executive,No,5-10 yrs,Mid,4393,52716,0.0552,Low,No
+1550,Human Resources,Manager,Yes,10+ yrs,Very High,16437,197244,0.0552,Low,No
+1548,Sales,Sales Executive,No,5-10 yrs,High,5473,65676,0.0547,Low,No
+211,Research & Development,Manufacturing Director,No,0-2 yrs,High,6132,73584,0.0545,Low,No
+346,Research & Development,Research Scientist,No,5-10 yrs,Low,2340,28080,0.0544,Low,No
+754,Sales,Sales Executive,No,2-5 yrs,High,6804,81648,0.0543,Low,No
+2,Research & Development,Research Scientist,No,10+ yrs,Mid,5130,61560,0.054,Low,No
+1812,Sales,Sales Executive,No,2-5 yrs,Mid,4127,49524,0.0539,Low,No
+15,Research & Development,Laboratory Technician,Yes,5-10 yrs,Mid,4193,50316,0.0537,Low,No
+1553,Research & Development,Healthcare Representative,No,10+ yrs,High,7441,89292,0.0532,Low,No
+874,Research & Development,Laboratory Technician,Yes,2-5 yrs,Low,2818,33816,0.0531,Low,No
+217,Research & Development,Research Scientist,No,2-5 yrs,Low,2323,27876,0.0531,Low,No
+431,Research & Development,Healthcare Representative,Yes,5-10 yrs,Very High,13964,167568,0.0528,Low,No
+1731,Sales,Sales Executive,No,0-2 yrs,Mid,4978,59736,0.0527,Low,No
+5,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2909,34908,0.0527,Low,No
+131,Sales,Sales Executive,No,10+ yrs,Very High,13872,166464,0.0526,Low,No
+1790,Research & Development,Healthcare Representative,Yes,10+ yrs,High,8321,99852,0.0525,Low,No
+1480,Research & Development,Laboratory Technician,No,10+ yrs,Mid,3673,44076,0.0524,Low,No
+1161,Research & Development,Healthcare Representative,No,5-10 yrs,High,5731,68772,0.0524,Low,No
+1503,Sales,Sales Executive,Yes,5-10 yrs,Mid,4591,55092,0.0522,Low,No
+495,Research & Development,Research Scientist,No,2-5 yrs,Low,2201,26412,0.0521,Low,No
+1257,Research & Development,Research Scientist,No,10+ yrs,Mid,3692,44304,0.0521,Low,No
+1943,Sales,Sales Executive,Yes,0-2 yrs,Mid,5087,61044,0.0519,Low,No
+786,Sales,Sales Executive,No,5-10 yrs,High,6274,75288,0.0516,Low,No
+1936,Research & Development,Manufacturing Director,No,10+ yrs,Mid,5151,61812,0.0514,Low,No
+192,Research & Development,Research Scientist,No,5-10 yrs,Mid,3452,41424,0.0511,Low,No
+1285,Research & Development,Laboratory Technician,No,10+ yrs,Mid,4444,53328,0.0511,Low,No
+227,Research & Development,Research Scientist,No,5-10 yrs,Low,2451,29412,0.051,Low,No
+1698,Research & Development,Laboratory Technician,No,10+ yrs,Low,2028,24336,0.0509,Low,No
+690,Sales,Sales Executive,No,5-10 yrs,High,5561,66732,0.0509,Low,No
+2038,Research & Development,Research Scientist,No,2-5 yrs,Low,2439,29268,0.0507,Low,No
+1281,Sales,Sales Executive,Yes,2-5 yrs,Mid,4538,54456,0.0507,Low,No
+689,Research & Development,Manufacturing Director,No,10+ yrs,Very High,9434,113208,0.0506,Low,No
+1289,Human Resources,Human Resources,No,10+ yrs,Mid,4490,53880,0.0505,Low,No
+16,Research & Development,Research Scientist,No,5-10 yrs,Low,2911,34932,0.0503,Low,No
+169,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2523,30276,0.0502,Low,No
+1997,Research & Development,Manufacturing Director,No,5-10 yrs,High,5321,63852,0.0501,Low,No
+98,Research & Development,Manufacturing Director,No,10+ yrs,Mid,4424,53088,0.05,Low,No
+721,Research & Development,Healthcare Representative,No,10+ yrs,Mid,4553,54636,0.05,Low,No
+1158,Research & Development,Laboratory Technician,Yes,0-2 yrs,Mid,4766,57192,0.0497,Low,No
+1469,Sales,Sales Executive,No,5-10 yrs,High,8463,101556,0.0496,Low,No
+1885,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,4284,51408,0.0493,Low,No
+657,Research & Development,Research Scientist,No,0-2 yrs,Low,2836,34032,0.0491,Low,No
+817,Research & Development,Research Director,No,10+ yrs,Very High,11691,140292,0.049,Low,No
+1043,Research & Development,Manufacturing Director,Yes,10+ yrs,Very High,10880,130560,0.049,Low,No
+2065,Sales,Sales Executive,No,5-10 yrs,High,5390,64680,0.0486,Low,No
+1204,Sales,Manager,No,10+ yrs,Very High,17048,204576,0.0486,Low,No
+483,Research & Development,Laboratory Technician,Yes,5-10 yrs,Low,2213,26556,0.0485,Low,No
+198,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2720,32640,0.0484,Low,No
+1014,Research & Development,Healthcare Representative,Yes,10+ yrs,Very High,10388,124656,0.0484,Low,No
+1994,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2008,24096,0.0481,Low,No
+808,Sales,Sales Executive,No,2-5 yrs,High,6500,78000,0.0481,Low,No
+916,Sales,Sales Executive,No,2-5 yrs,Mid,4908,58896,0.048,Low,No
+407,Research & Development,Laboratory Technician,No,0-2 yrs,Mid,3688,44256,0.0479,Low,No
+1475,Research & Development,Research Scientist,No,5-10 yrs,Mid,3420,41040,0.0478,Low,No
+474,Research & Development,Research Scientist,Yes,5-10 yrs,High,5974,71688,0.0478,Low,No
+224,Research & Development,Research Scientist,Yes,0-2 yrs,Low,2566,30792,0.0478,Low,No
+302,Sales,Sales Executive,No,10+ yrs,Very High,8865,106380,0.0478,Low,No
+171,Research & Development,Research Scientist,No,2-5 yrs,Mid,4739,56868,0.0478,Low,No
+439,Research & Development,Research Scientist,No,5-10 yrs,Mid,5055,60660,0.0477,Low,No
+1648,Research & Development,Research Scientist,No,2-5 yrs,Low,2580,30960,0.0476,Low,No
+1270,Research & Development,Research Scientist,No,0-2 yrs,Low,1223,14676,0.0475,Low,No
+116,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2075,24900,0.0475,Low,No
+516,Sales,Sales Executive,No,5-10 yrs,High,5715,68580,0.0472,Low,No
+2014,Research & Development,Research Scientist,No,5-10 yrs,Mid,4108,49296,0.0472,Low,No
+944,Research & Development,Laboratory Technician,No,10+ yrs,High,7403,88836,0.0471,Low,No
+1225,Research & Development,Research Scientist,No,10+ yrs,Mid,4541,54492,0.0471,Low,No
+653,Sales,Sales Executive,No,5-10 yrs,High,5460,65520,0.047,Low,No
+800,Sales,Sales Executive,No,2-5 yrs,Mid,4342,52104,0.0468,Low,No
+1912,Sales,Sales Executive,Yes,5-10 yrs,High,6583,78996,0.0467,Low,No
+14,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2426,29112,0.0466,Low,No
+1583,Sales,Sales Executive,No,2-5 yrs,Mid,4198,50376,0.0461,Low,No
+316,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3212,38544,0.0458,Low,No
+1749,Sales,Sales Executive,No,5-10 yrs,High,8346,100152,0.0457,Low,No
+267,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,3564,42768,0.0455,Low,No
+1336,Research & Development,Manager,No,10+ yrs,Very High,19187,230244,0.0453,Low,No
+1243,Sales,Sales Executive,Yes,10+ yrs,Very High,10377,124524,0.0453,Low,No
+1097,Research & Development,Research Scientist,No,5-10 yrs,Mid,3660,43920,0.0453,Low,No
+134,Research & Development,Research Scientist,No,0-2 yrs,Low,2956,35472,0.0449,Low,No
+1527,Sales,Manager,No,10+ yrs,Very High,16606,199272,0.0446,Low,No
+63,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2269,27228,0.0445,Low,No
+1631,Research & Development,Manufacturing Director,No,2-5 yrs,High,5768,69216,0.0443,Low,No
+1962,Sales,Sales Executive,Yes,10+ yrs,Mid,5204,62448,0.0443,Low,No
+104,Research & Development,Laboratory Technician,Yes,10+ yrs,Mid,5126,61512,0.0442,Low,No
+1547,Research & Development,Healthcare Representative,Yes,10+ yrs,Very High,10124,121488,0.0442,Low,No
+1732,Sales,Sales Executive,Yes,10+ yrs,Very High,10368,124416,0.0436,Low,No
+85,Research & Development,Manufacturing Director,No,5-10 yrs,High,6499,77988,0.0436,Low,No
+1172,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2258,27096,0.0434,Low,No
+1322,Research & Development,Manufacturing Director,No,5-10 yrs,Mid,4534,54408,0.0432,Low,No
+1206,Research & Development,Research Scientist,No,0-2 yrs,Low,2290,27480,0.0432,Low,No
+525,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2258,27096,0.0432,Low,No
+507,Sales,Sales Executive,Yes,5-10 yrs,Mid,4260,51120,0.0431,Low,No
+900,Sales,Sales Representative,No,5-10 yrs,Low,2973,35676,0.0431,Low,No
+60,Sales,Sales Executive,No,5-10 yrs,Mid,4568,54816,0.043,Low,No
+1441,Research & Development,Research Scientist,No,2-5 yrs,Low,2066,24792,0.043,Low,No
+1431,Research & Development,Research Scientist,No,2-5 yrs,Low,2996,35952,0.043,Low,No
+1050,Sales,Sales Executive,No,10+ yrs,High,7525,90300,0.0428,Low,No
+981,Sales,Manager,No,10+ yrs,Very High,14852,178224,0.0428,Low,No
+1265,Research & Development,Research Scientist,No,0-2 yrs,Low,2585,31020,0.0426,Low,No
+1039,Sales,Sales Executive,Yes,10+ yrs,Very High,13320,159840,0.0424,Low,No
+1599,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,4876,58512,0.0424,Low,No
+2031,Research & Development,Manager,No,10+ yrs,Very High,18880,226560,0.0424,Low,No
+1656,Research & Development,Research Director,No,10+ yrs,Very High,13269,159228,0.0422,Low,No
+1022,Research & Development,Healthcare Representative,No,2-5 yrs,Mid,4240,50880,0.042,Low,No
+408,Research & Development,Manufacturing Director,No,2-5 yrs,High,5482,65784,0.0417,Low,No
+1775,Research & Development,Manufacturing Director,Yes,2-5 yrs,Very High,12965,155580,0.0414,Low,No
+1192,Research & Development,Laboratory Technician,No,10+ yrs,Low,3131,37572,0.0414,Low,No
+1137,Sales,Sales Executive,No,5-10 yrs,Mid,4968,59616,0.0414,Low,No
+124,Research & Development,Healthcare Representative,Yes,10+ yrs,Very High,10673,128076,0.0412,Low,No
+1513,Research & Development,Laboratory Technician,No,2-5 yrs,Low,3180,38160,0.0412,Low,No
+1180,Research & Development,Research Scientist,Yes,0-2 yrs,Mid,4422,53064,0.0412,Low,No
+716,Research & Development,Laboratory Technician,Yes,10+ yrs,Mid,3221,38652,0.0412,Low,No
+20,Research & Development,Manufacturing Director,No,10+ yrs,Very High,9980,119760,0.0407,Low,No
+575,Research & Development,Research Director,No,2-5 yrs,Very High,17861,214332,0.0407,Low,No
+1982,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2647,31764,0.0406,Low,No
+128,Sales,Sales Executive,No,2-5 yrs,Mid,4999,59988,0.0403,Low,No
+296,Research & Development,Research Director,No,10+ yrs,Very High,12490,149880,0.0399,Low,No
+343,Research & Development,Healthcare Representative,No,10+ yrs,Very High,10938,131256,0.0399,Low,No
+762,Research & Development,Healthcare Representative,No,10+ yrs,Very High,11103,133236,0.0398,Low,No
+942,Research & Development,Healthcare Representative,Yes,10+ yrs,Mid,4014,48168,0.0397,Low,No
+838,Research & Development,Research Scientist,No,5-10 yrs,Low,2553,30636,0.0397,Low,No
+1683,Human Resources,Human Resources,Yes,2-5 yrs,Low,3195,38340,0.0396,Low,No
+366,Sales,Sales Executive,No,0-2 yrs,High,6644,79728,0.0396,Low,No
+1837,Research & Development,Research Director,Yes,2-5 yrs,Very High,15787,189444,0.0395,Low,No
+246,Research & Development,Research Scientist,Yes,2-5 yrs,Mid,3929,47148,0.0395,Low,No
+1212,Sales,Sales Executive,No,0-2 yrs,Mid,4327,51924,0.0395,Low,No
+1140,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4033,48396,0.0394,Low,No
+1794,Human Resources,Human Resources,No,10+ yrs,Mid,4071,48852,0.0394,Low,No
+530,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2218,26616,0.0391,Low,No
+1447,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3294,39528,0.0391,Low,No
+1221,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2741,32892,0.039,Low,No
+337,Research & Development,Research Director,No,2-5 yrs,Very High,13675,164100,0.0388,Low,No
+834,Research & Development,Research Scientist,No,0-2 yrs,Low,2274,27288,0.0387,Low,No
+1700,Sales,Sales Executive,No,5-10 yrs,Very High,9525,114300,0.0387,Low,No
+223,Research & Development,Healthcare Representative,Yes,5-10 yrs,Very High,9439,113268,0.0386,Low,No
+984,Sales,Sales Executive,No,10+ yrs,High,7823,93876,0.0385,Low,No
+1307,Research & Development,Manager,Yes,10+ yrs,Very High,17123,205476,0.0385,Low,No
+1191,Research & Development,Manager,No,5-10 yrs,Very High,19943,239316,0.0385,Low,No
+644,Human Resources,Manager,No,10+ yrs,Very High,18200,218400,0.0385,Low,No
+158,Sales,Manager,Yes,10+ yrs,Very High,16959,203508,0.0384,Low,No
+1564,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2450,29400,0.0382,Low,No
+1789,Research & Development,Research Director,Yes,2-5 yrs,Very High,19328,231936,0.038,Low,No
+1952,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2867,34404,0.038,Low,No
+102,Research & Development,Research Director,No,5-10 yrs,Very High,13664,163968,0.0378,Low,No
+1311,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,4627,55524,0.0377,Low,No
+148,Human Resources,Manager,Yes,5-10 yrs,Very High,17328,207936,0.0377,Low,No
+1542,Research & Development,Laboratory Technician,No,0-2 yrs,Mid,4841,58092,0.0375,Low,No
+620,Sales,Sales Executive,No,5-10 yrs,Mid,4859,58308,0.0374,Low,No
+1177,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,4420,53040,0.0374,Low,No
+562,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2097,25164,0.0373,Low,No
+1533,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2272,27264,0.037,Low,No
+595,Sales,Sales Executive,No,5-10 yrs,Mid,4051,48612,0.037,Low,No
+1689,Research & Development,Healthcare Representative,No,2-5 yrs,High,7005,84060,0.0368,Low,No
+1751,Research & Development,Research Scientist,No,5-10 yrs,Mid,3445,41340,0.0367,Low,No
+850,Research & Development,Research Scientist,No,0-2 yrs,Low,1706,20472,0.0363,Low,No
+1034,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,6385,76620,0.0363,Low,No
+1557,Sales,Sales Executive,No,5-10 yrs,High,6439,77268,0.0362,Low,No
+1466,Sales,Sales Executive,No,2-5 yrs,High,5486,65832,0.036,Low,No
+455,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3983,47796,0.0359,Low,No
+2025,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,5131,61572,0.0359,Low,No
+1352,Human Resources,Manager,Yes,10+ yrs,Very High,14026,168312,0.0356,Low,No
+961,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,5855,70260,0.0355,Low,No
+1485,Research & Development,Research Director,No,10+ yrs,Very High,17007,204084,0.0354,Low,No
+1120,Research & Development,Research Scientist,No,5-10 yrs,Low,2514,30168,0.0354,Low,No
+353,Research & Development,Research Scientist,No,0-2 yrs,Low,2723,32676,0.0353,Low,No
+513,Sales,Sales Executive,No,10+ yrs,High,7596,91152,0.0353,Low,No
+1252,Research & Development,Healthcare Representative,No,10+ yrs,High,6812,81744,0.035,Low,No
+844,Research & Development,Research Director,Yes,5-10 yrs,Very High,12808,153696,0.035,Low,No
+1060,Research & Development,Research Scientist,No,2-5 yrs,Low,2821,33852,0.0349,Low,No
+1472,Research & Development,Research Director,No,5-10 yrs,Very High,16598,199176,0.0349,Low,No
+606,Sales,Sales Executive,No,5-10 yrs,Mid,4805,57660,0.0348,Low,No
+1815,Sales,Sales Executive,Yes,10+ yrs,Very High,10447,125364,0.0348,Low,No
+160,Sales,Sales Executive,No,5-10 yrs,High,6146,73752,0.0348,Low,No
+349,Sales,Sales Executive,No,2-5 yrs,High,6931,83172,0.0347,Low,No
+335,Research & Development,Research Scientist,No,5-10 yrs,Mid,3319,39828,0.0346,Low,No
+444,Research & Development,Manager,No,10+ yrs,Very High,19272,231264,0.0346,Low,No
+378,Sales,Sales Executive,No,5-10 yrs,High,6502,78024,0.0345,Low,No
+1857,Research & Development,Manufacturing Director,No,5-10 yrs,High,8578,102936,0.0345,Low,No
+1932,Research & Development,Research Scientist,Yes,10+ yrs,High,5747,68964,0.0344,Low,No
+743,Research & Development,Manufacturing Director,Yes,0-2 yrs,High,7861,94332,0.0343,Low,No
+1849,Sales,Sales Executive,No,5-10 yrs,High,5675,68100,0.0343,Low,No
+288,Research & Development,Healthcare Representative,No,2-5 yrs,Very High,9396,112752,0.0343,Low,No
+1182,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,10274,123288,0.0342,Low,No
+170,Research & Development,Manufacturing Director,No,10+ yrs,High,6567,78804,0.0341,Low,No
+1798,Research & Development,Research Scientist,No,10+ yrs,Low,3143,37716,0.0341,Low,No
+129,Sales,Sales Executive,No,5-10 yrs,Mid,4221,50652,0.034,Low,No
+807,Research & Development,Healthcare Representative,No,5-10 yrs,Mid,4244,50928,0.0339,Low,No
+1597,Research & Development,Healthcare Representative,No,5-10 yrs,Mid,5063,60756,0.0339,Low,No
+197,Research & Development,Research Scientist,No,2-5 yrs,Low,3204,38448,0.0337,Low,No
+806,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3833,45996,0.0337,Low,No
+2057,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,9936,119232,0.0333,Low,No
+347,Research & Development,Research Scientist,Yes,2-5 yrs,High,6545,78540,0.0333,Low,No
+193,Research & Development,Research Scientist,Yes,2-5 yrs,Mid,4317,51804,0.0332,Low,No
+1029,Sales,Manager,No,0-2 yrs,Very High,18303,219636,0.0331,Low,No
+1827,Research & Development,Manufacturing Director,Yes,10+ yrs,Very High,10333,123996,0.0329,Low,No
+1501,Research & Development,Healthcare Representative,Yes,2-5 yrs,Mid,4035,48420,0.0327,Low,No
+1971,Research & Development,Healthcare Representative,No,10+ yrs,High,7510,90120,0.0327,Low,No
+995,Research & Development,Research Scientist,No,2-5 yrs,Mid,3452,41424,0.0327,Low,No
+1931,Research & Development,Research Scientist,No,5-10 yrs,Low,2226,26712,0.0325,Low,No
+332,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2232,26784,0.0325,Low,No
+665,Human Resources,Human Resources,No,2-5 yrs,High,5985,71820,0.0323,Low,No
+775,Research & Development,Manufacturing Director,No,0-2 yrs,Mid,5121,61452,0.0322,Low,No
+303,Sales,Sales Executive,No,5-10 yrs,High,5940,71280,0.0322,Low,No
+1757,Sales,Sales Executive,No,5-10 yrs,Mid,4507,54084,0.0321,Low,No
+247,Research & Development,Research Scientist,No,2-5 yrs,Low,2311,27732,0.0321,Low,No
+450,Research & Development,Research Scientist,No,2-5 yrs,Mid,4869,58428,0.032,Low,No
+1996,Sales,Sales Representative,No,2-5 yrs,Low,3067,36804,0.032,Low,No
+1312,Research & Development,Healthcare Representative,No,5-10 yrs,High,7094,85128,0.032,Low,No
+763,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2342,28104,0.0319,Low,No
+679,Research & Development,Research Scientist,Yes,5-10 yrs,High,6322,75864,0.0318,Low,No
+1555,Research & Development,Research Scientist,No,5-10 yrs,High,5878,70536,0.0318,Low,No
+987,Research & Development,Manufacturing Director,Yes,10+ yrs,Mid,5067,60804,0.0317,Low,No
+8,Research & Development,Laboratory Technician,No,5-10 yrs,Low,3068,36816,0.0313,Low,No
+333,Sales,Sales Executive,No,2-5 yrs,Mid,4465,53580,0.0311,Low,No
+1126,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,10820,129840,0.0309,Low,No
+1803,Research & Development,Healthcare Representative,No,0-2 yrs,High,5538,66456,0.0309,Low,No
+992,Sales,Manager,No,10+ yrs,Very High,17444,209328,0.0308,Low,No
+221,Research & Development,Research Scientist,No,5-10 yrs,Low,2713,32556,0.0307,Low,No
+1240,Sales,Sales Executive,No,2-5 yrs,Mid,4950,59400,0.0306,Low,No
+880,Research & Development,Manufacturing Director,Yes,10+ yrs,Very High,10685,128220,0.0305,Low,No
+1947,Research & Development,Research Scientist,No,5-10 yrs,Low,2144,25728,0.0305,Low,No
+889,Sales,Sales Executive,No,10+ yrs,High,6524,78288,0.0304,Low,No
+1824,Sales,Manager,No,10+ yrs,Very High,16291,195492,0.0301,Low,No
+1800,Research & Development,Research Director,No,2-5 yrs,Very High,13464,161568,0.0301,Low,No
+1007,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,10845,130140,0.03,Low,No
+471,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2370,28440,0.03,Low,No
+1898,Sales,Sales Executive,No,5-10 yrs,High,6500,78000,0.0299,Low,No
+199,Research & Development,Manager,No,5-10 yrs,Very High,17181,206172,0.0299,Low,No
+958,Research & Development,Laboratory Technician,No,10+ yrs,Low,2519,30228,0.0297,Low,No
+1786,Research & Development,Manager,No,2-5 yrs,Very High,13116,157392,0.0296,Low,No
+1260,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,6623,79476,0.0296,Low,No
+1217,Research & Development,Research Director,No,2-5 yrs,Very High,19081,228972,0.0296,Low,No
+1516,Research & Development,Manager,No,5-10 yrs,Very High,11244,134928,0.0295,Low,No
+1446,Sales,Sales Executive,No,2-5 yrs,Very High,9204,110448,0.0294,Low,No
+151,Research & Development,Research Scientist,No,0-2 yrs,Mid,4505,54060,0.0291,Low,No
+1084,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,9957,119484,0.0289,Low,No
+677,Sales,Sales Executive,No,5-10 yrs,High,7104,85248,0.0287,Low,No
+416,Sales,Sales Executive,No,5-10 yrs,High,6929,83148,0.0287,Low,No
+1740,Sales,Manager,No,10+ yrs,Very High,19833,237996,0.0287,Low,No
+88,Research & Development,Research Scientist,No,2-5 yrs,Low,2194,26328,0.0287,Low,No
+1306,Research & Development,Manager,No,0-2 yrs,Very High,18061,216732,0.0286,Low,No
+1499,Human Resources,Human Resources,No,5-10 yrs,Low,2064,24768,0.0286,Low,No
+857,Sales,Sales Executive,Yes,10+ yrs,High,6201,74412,0.0286,Low,No
+600,Sales,Sales Executive,No,10+ yrs,Mid,4717,56604,0.0286,Low,No
+38,Sales,Manager,No,2-5 yrs,Very High,18947,227364,0.0283,Low,No
+823,Research & Development,Manufacturing Director,No,5-10 yrs,High,5228,62736,0.0283,Low,No
+1392,Research & Development,Research Scientist,Yes,5-10 yrs,High,5467,65604,0.028,Low,No
+1143,Research & Development,Research Scientist,No,5-10 yrs,Mid,3291,39492,0.0278,Low,No
+1985,Research & Development,Laboratory Technician,No,10+ yrs,High,6323,75876,0.0278,Low,No
+1338,Human Resources,Manager,No,5-10 yrs,Very High,19717,236604,0.0277,Low,No
+2013,Sales,Sales Representative,No,2-5 yrs,Low,2269,27228,0.0276,Low,No
+132,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2042,24504,0.0275,Low,No
+1068,Research & Development,Research Scientist,No,5-10 yrs,Low,2007,24084,0.0275,Low,No
+150,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2774,33288,0.0275,Low,No
+700,Research & Development,Research Scientist,No,2-5 yrs,Low,2045,24540,0.0273,Low,No
+1304,Sales,Sales Executive,No,10+ yrs,High,6209,74508,0.0272,Low,No
+293,Sales,Sales Executive,No,5-10 yrs,Very High,9981,119772,0.0271,Low,No
+567,Sales,Sales Executive,No,5-10 yrs,High,8412,100944,0.0271,Low,No
+599,Sales,Sales Executive,No,10+ yrs,High,6230,74760,0.0269,Low,No
+35,Sales,Sales Executive,No,5-10 yrs,High,6825,81900,0.0269,Low,No
+536,Research & Development,Laboratory Technician,No,10+ yrs,Mid,4558,54696,0.0265,Low,No
+1094,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,4621,55452,0.0264,Low,No
+1482,Research & Development,Research Scientist,No,0-2 yrs,Low,1274,15288,0.0264,Low,No
+1554,Sales,Sales Representative,No,5-10 yrs,Low,2430,29160,0.0262,Low,No
+1525,Research & Development,Manufacturing Director,No,2-5 yrs,High,8376,100512,0.0261,Low,No
+574,Research & Development,Manufacturing Director,No,5-10 yrs,Mid,5070,60840,0.0261,Low,No
+2041,Sales,Sales Executive,No,10+ yrs,High,5343,64116,0.0261,Low,No
+1025,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,5003,60036,0.0258,Low,No
+1892,Research & Development,Manager,No,10+ yrs,Very High,16823,201876,0.0258,Low,No
+1829,Research & Development,Healthcare Representative,No,5-10 yrs,Mid,4448,53376,0.0257,Low,No
+500,Sales,Sales Executive,No,5-10 yrs,Mid,4936,59232,0.0257,Low,No
+523,Sales,Sales Executive,No,2-5 yrs,High,6538,78456,0.0256,Low,No
+339,Research & Development,Manufacturing Director,No,10+ yrs,High,5957,71484,0.0255,Low,No
+2035,Sales,Sales Executive,No,5-10 yrs,High,6712,80544,0.0255,Low,No
+626,Sales,Sales Executive,No,5-10 yrs,High,8834,106008,0.0254,Low,No
+1407,Research & Development,Research Scientist,No,2-5 yrs,Mid,3904,46848,0.0252,Low,No
+1509,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,4789,57468,0.0251,Low,No
+548,Research & Development,Manufacturing Director,No,5-10 yrs,High,6091,73092,0.025,Low,No
+214,Research & Development,Research Scientist,Yes,0-2 yrs,Mid,3346,40152,0.025,Low,No
+228,Sales,Sales Executive,No,10+ yrs,Very High,9419,113028,0.025,Low,No
+1677,Research & Development,Manager,No,5-10 yrs,Very High,15379,184548,0.025,Low,No
+742,Research & Development,Research Director,No,5-10 yrs,Very High,11713,140556,0.0249,Low,No
+1009,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4377,52524,0.0248,Low,No
+1693,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2570,30840,0.0247,Low,No
+449,Sales,Sales Executive,Yes,5-10 yrs,High,6349,76188,0.0247,Low,No
+76,Research & Development,Laboratory Technician,No,5-10 yrs,High,5915,70980,0.0246,Low,No
+2008,Research & Development,Research Scientist,No,10+ yrs,Mid,5098,61176,0.0246,Low,No
+534,Sales,Sales Executive,No,10+ yrs,High,8392,100704,0.0246,Low,No
+1103,Research & Development,Healthcare Representative,No,5-10 yrs,High,7756,93072,0.0245,Low,No
+1948,Research & Development,Research Scientist,Yes,2-5 yrs,Low,3065,36780,0.0245,Low,No
+438,Sales,Sales Executive,No,5-10 yrs,High,7547,90564,0.0244,Low,No
+226,Research & Development,Manager,No,5-10 yrs,Very High,19926,239112,0.0244,Low,No
+1835,Sales,Sales Representative,Yes,2-5 yrs,High,5405,64860,0.0243,Low,No
+805,Sales,Sales Representative,No,2-5 yrs,Low,2572,30864,0.0243,Low,No
+182,Sales,Sales Executive,No,10+ yrs,High,5902,70824,0.0242,Low,No
+419,Research & Development,Laboratory Technician,No,5-10 yrs,High,5674,68088,0.0241,Low,No
+1601,Research & Development,Laboratory Technician,No,0-2 yrs,Low,2690,32280,0.024,Low,No
+239,Research & Development,Laboratory Technician,No,10+ yrs,Low,3072,36864,0.0239,Low,No
+202,Research & Development,Research Scientist,No,10+ yrs,High,5605,67260,0.0239,Low,No
+386,Research & Development,Research Director,Yes,5-10 yrs,Very High,17584,211008,0.0238,Low,No
+68,Sales,Sales Executive,Yes,2-5 yrs,High,5454,65448,0.0238,Low,No
+1979,Research & Development,Research Director,No,10+ yrs,Very High,11031,132372,0.0236,Low,No
+1638,Research & Development,Manufacturing Director,Yes,5-10 yrs,High,7756,93072,0.0236,Low,No
+1606,Research & Development,Healthcare Representative,Yes,10+ yrs,Very High,11245,134940,0.0236,Low,No
+1972,Human Resources,Human Resources,Yes,5-10 yrs,Low,2991,35892,0.0235,Low,No
+1015,Research & Development,Research Director,Yes,5-10 yrs,Very High,11416,136992,0.0234,Low,No
+1578,Sales,Manager,No,10+ yrs,Very High,19586,235032,0.0233,Low,No
+1013,Research & Development,Manufacturing Director,No,10+ yrs,Very High,10739,128868,0.0232,Low,No
+145,Research & Development,Healthcare Representative,No,10+ yrs,High,7484,89808,0.0231,Low,No
+476,Sales,Sales Executive,No,5-10 yrs,High,5296,63552,0.0229,Low,No
+769,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2450,29400,0.0229,Low,No
+1362,Sales,Sales Executive,No,10+ yrs,Mid,4639,55668,0.0229,Low,No
+947,Sales,Sales Executive,No,5-10 yrs,High,6932,83184,0.0227,Low,No
+1071,Research & Development,Research Scientist,No,5-10 yrs,Low,2942,35304,0.0227,Low,No
+1782,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3702,44424,0.0227,Low,No
+1282,Sales,Manager,Yes,10+ yrs,Very High,19847,238164,0.0226,Low,No
+1981,Research & Development,Healthcare Representative,No,2-5 yrs,Mid,4617,55404,0.0226,Low,No
+1092,Research & Development,Healthcare Representative,No,10+ yrs,Very High,10322,123864,0.0224,Low,No
+340,Research & Development,Research Scientist,No,2-5 yrs,Mid,3920,47040,0.0224,Low,No
+802,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2782,33384,0.0224,Low,No
+1995,Sales,Sales Executive,No,10+ yrs,Mid,4440,53280,0.0223,Low,No
+533,Sales,Sales Executive,No,5-10 yrs,High,6577,78924,0.0223,Low,No
+1845,Sales,Sales Executive,No,5-10 yrs,Mid,5154,61848,0.0222,Low,No
+13,Research & Development,Healthcare Representative,No,5-10 yrs,High,5237,62844,0.0222,Low,No
+1770,Research & Development,Research Director,No,0-2 yrs,Very High,19038,228456,0.0222,Low,No
+138,Research & Development,Research Scientist,No,10+ yrs,Mid,4809,57708,0.022,Low,No
+845,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,10221,122652,0.022,Low,No
+1315,Research & Development,Laboratory Technician,No,5-10 yrs,High,6674,80088,0.022,Low,No
+515,Research & Development,Laboratory Technician,No,10+ yrs,Low,3034,36408,0.022,Low,No
+1128,Research & Development,Research Director,No,10+ yrs,Very High,19626,235512,0.0219,Low,No
+710,Research & Development,Research Scientist,No,10+ yrs,Low,2720,32640,0.0219,Low,No
+387,Sales,Sales Executive,No,10+ yrs,Mid,4907,58884,0.0218,Low,No
+200,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2238,26856,0.0217,Low,No
+367,Research & Development,Healthcare Representative,No,5-10 yrs,High,5582,66984,0.0215,Low,No
+1061,Research & Development,Research Director,Yes,5-10 yrs,Very High,19237,230844,0.0215,Low,No
+1235,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,4998,59976,0.0214,Low,No
+1245,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,10502,126024,0.0213,Low,No
+1975,Sales,Sales Executive,No,10+ yrs,Very High,13341,160092,0.0212,Low,No
+479,Sales,Sales Executive,No,0-2 yrs,High,6653,79836,0.0211,Low,No
+809,Research & Development,Manager,No,10+ yrs,Very High,18430,221160,0.021,Low,No
+1152,Human Resources,Human Resources,No,5-10 yrs,Low,2844,34128,0.0205,Low,No
+233,Research & Development,Research Scientist,Yes,5-10 yrs,Low,3058,36696,0.0205,Low,No
+985,Sales,Sales Executive,No,5-10 yrs,High,7880,94560,0.0204,Low,No
+1621,Research & Development,Research Scientist,No,10+ yrs,High,5208,62496,0.0204,Low,No
+861,Research & Development,Research Scientist,No,5-10 yrs,Mid,3761,45132,0.0204,Low,No
+692,Research & Development,Healthcare Representative,No,10+ yrs,High,7725,92700,0.0202,Low,No
+2016,Sales,Sales Executive,No,10+ yrs,Very High,10422,125064,0.0202,Low,No
+663,Research & Development,Laboratory Technician,Yes,5-10 yrs,High,5679,68148,0.0201,Low,No
+361,Sales,Sales Executive,No,5-10 yrs,High,5249,62988,0.0201,Low,No
+477,Research & Development,Healthcare Representative,No,0-2 yrs,High,6781,81372,0.0201,Low,No
+813,Research & Development,Laboratory Technician,No,5-10 yrs,Low,3149,37788,0.0201,Low,No
+100,Sales,Sales Executive,No,10+ yrs,Mid,4312,51744,0.0201,Low,No
+1267,Sales,Manager,No,10+ yrs,Very High,18213,218556,0.02,Low,No
+964,Research & Development,Research Scientist,Yes,0-2 yrs,Mid,3617,43404,0.02,Low,No
+1701,Research & Development,Research Scientist,No,10+ yrs,Low,2929,35148,0.0199,Low,No
+804,Research & Development,Research Scientist,No,5-10 yrs,Mid,4381,52572,0.0199,Low,No
+2049,Research & Development,Healthcare Representative,Yes,10+ yrs,High,5689,68268,0.0198,Low,No
+101,Research & Development,Research Director,Yes,0-2 yrs,Very High,13245,158940,0.0197,Low,No
+1436,Sales,Sales Executive,No,2-5 yrs,High,5647,67764,0.0197,Low,No
+1479,Sales,Sales Executive,No,2-5 yrs,High,5301,63612,0.0196,Low,No
+309,Research & Development,Research Scientist,No,0-2 yrs,Low,2177,26124,0.0195,Low,No
+1006,Research & Development,Research Scientist,No,2-5 yrs,Low,2684,32208,0.0194,Low,No
+1237,Research & Development,Manufacturing Director,Yes,5-10 yrs,Very High,10252,123024,0.0193,Low,No
+851,Sales,Manager,No,10+ yrs,Very High,16307,195684,0.0192,Low,No
+423,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,4821,57852,0.0191,Low,No
+1249,Research & Development,Research Scientist,No,2-5 yrs,Mid,3760,45120,0.019,Low,No
+1114,Sales,Sales Executive,No,2-5 yrs,Mid,4302,51624,0.019,Low,No
+468,Research & Development,Research Director,No,0-2 yrs,Very High,15992,191904,0.0189,Low,No
+1805,Human Resources,Human Resources,No,10+ yrs,Low,2592,31104,0.0189,Low,No
+1635,Research & Development,Manufacturing Director,No,10+ yrs,High,5770,69240,0.0189,Low,No
+1592,Research & Development,Research Scientist,No,2-5 yrs,Low,2073,24876,0.0189,Low,No
+1334,Research & Development,Manager,Yes,10+ yrs,Very High,17861,214332,0.0188,Low,No
+1228,Research & Development,Manufacturing Director,No,5-10 yrs,High,7379,88548,0.0188,Low,No
+1133,Research & Development,Manufacturing Director,No,10+ yrs,High,7779,93348,0.0187,Low,No
+1745,Research & Development,Research Scientist,No,5-10 yrs,Mid,4968,59616,0.0187,Low,No
+815,Research & Development,Research Director,No,2-5 yrs,Very High,17639,211668,0.0186,Low,No
+2037,Sales,Sales Executive,No,5-10 yrs,Very High,8938,107256,0.0185,Low,No
+940,Research & Development,Healthcare Representative,Yes,5-10 yrs,Very High,10552,126624,0.0185,Low,No
+1544,Research & Development,Healthcare Representative,No,5-10 yrs,Very High,9715,116580,0.0184,Low,No
+121,Sales,Sales Executive,Yes,10+ yrs,High,5209,62508,0.0184,Low,No
+1830,Research & Development,Research Scientist,No,5-10 yrs,High,6854,82248,0.0183,Low,No
+70,Research & Development,Healthcare Representative,Yes,2-5 yrs,Very High,9884,118608,0.0181,Low,No
+1438,Research & Development,Research Scientist,No,5-10 yrs,Mid,3420,41040,0.0181,Low,No
+924,Research & Development,Healthcare Representative,Yes,10+ yrs,High,6586,79032,0.018,Low,No
+271,Research & Development,Manufacturing Director,No,0-2 yrs,High,6553,78636,0.0178,Low,No
+469,Sales,Sales Executive,No,2-5 yrs,Mid,4649,55788,0.0177,Low,No
+208,Research & Development,Manufacturing Director,No,10+ yrs,Mid,4319,51828,0.0177,Low,No
+258,Research & Development,Healthcare Representative,No,5-10 yrs,Very High,13734,164808,0.0177,Low,No
+154,Sales,Sales Executive,No,5-10 yrs,Very High,9738,116856,0.0176,Low,No
+1719,Research & Development,Research Director,No,10+ yrs,Very High,16704,200448,0.0176,Low,No
+951,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2332,27984,0.0176,Low,No
+1802,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3377,40524,0.0175,Low,No
+1460,Research & Development,Healthcare Representative,Yes,5-10 yrs,Very High,10851,130212,0.0174,Low,No
+671,Research & Development,Manager,Yes,2-5 yrs,Very High,19513,234156,0.0174,Low,No
+105,Research & Development,Research Scientist,No,5-10 yrs,Low,2859,34308,0.0174,Low,No
+521,Research & Development,Laboratory Technician,No,0-2 yrs,Mid,3448,41376,0.0174,Low,No
+1823,Sales,Sales Executive,No,10+ yrs,High,6799,81588,0.0173,Low,No
+1989,Research & Development,Laboratory Technician,No,10+ yrs,Mid,3748,44976,0.0173,Low,No
+241,Research & Development,Research Scientist,Yes,2-5 yrs,Mid,4257,51084,0.0172,Low,No
+456,Sales,Sales Executive,No,10+ yrs,High,6118,73416,0.0171,Low,No
+1676,Sales,Manager,No,2-5 yrs,Very High,15972,191664,0.017,Low,No
+625,Sales,Manager,No,10+ yrs,Very High,16595,199140,0.017,Low,No
+990,Sales,Sales Executive,No,5-10 yrs,Mid,5079,60948,0.017,Low,No
+417,Research & Development,Healthcare Representative,No,10+ yrs,Very High,9613,115356,0.017,Low,No
+905,Research & Development,Manager,No,10+ yrs,Very High,17924,215088,0.0169,Low,No
+1938,Sales,Manager,Yes,0-2 yrs,Very High,17875,214500,0.0169,Low,No
+727,Research & Development,Research Director,No,5-10 yrs,Very High,11159,133908,0.0168,Low,No
+560,Research & Development,Research Scientist,No,2-5 yrs,Low,2886,34632,0.0166,Low,No
+1096,Research & Development,Manufacturing Director,No,2-5 yrs,Very High,10976,131712,0.0166,Low,No
+385,Research & Development,Research Director,No,10+ yrs,Very High,19144,229728,0.0166,Low,No
+836,Research & Development,Manufacturing Director,No,5-10 yrs,Mid,4434,53208,0.0165,Low,No
+649,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,3622,43464,0.0165,Low,No
+731,Human Resources,Manager,No,10+ yrs,Very High,19141,229692,0.0164,Low,No
+1863,Sales,Sales Executive,No,10+ yrs,Very High,13225,158700,0.0164,Low,No
+1184,Research & Development,Healthcare Representative,No,10+ yrs,High,5343,64116,0.0163,Low,No
+406,Sales,Sales Executive,No,10+ yrs,High,8020,96240,0.0163,Low,No
+259,Research & Development,Manager,No,10+ yrs,Very High,19999,239988,0.0163,Low,No
+1473,Research & Development,Healthcare Representative,No,2-5 yrs,High,6651,79812,0.016,Low,No
+2000,Research & Development,Research Director,No,10+ yrs,Very High,11957,143484,0.016,Low,No
+865,Research & Development,Research Scientist,No,5-10 yrs,Mid,5175,62100,0.016,Low,No
+1582,Sales,Sales Executive,No,5-10 yrs,Very High,9924,119088,0.0159,Low,No
+1207,Human Resources,Human Resources,No,5-10 yrs,Mid,3600,43200,0.0159,Low,No
+635,Research & Development,Manufacturing Director,No,5-10 yrs,High,6447,77364,0.0158,Low,No
+1035,Research & Development,Research Director,No,10+ yrs,Very High,19973,239676,0.0158,Low,No
+1523,Research & Development,Research Director,No,10+ yrs,Very High,16328,195936,0.0157,Low,No
+564,Research & Development,Research Director,No,10+ yrs,Very High,11935,143220,0.0157,Low,No
+580,Sales,Sales Executive,Yes,2-5 yrs,Very High,9071,108852,0.0156,Low,No
+709,Sales,Sales Executive,No,5-10 yrs,Mid,4028,48336,0.0155,Low,No
+505,Research & Development,Manager,Yes,5-10 yrs,Very High,16659,199908,0.0155,Low,No
+522,Research & Development,Research Director,No,2-5 yrs,Very High,19406,232872,0.0155,Low,No
+487,Research & Development,Manufacturing Director,No,0-2 yrs,High,5258,63096,0.0154,Low,No
+1664,Research & Development,Healthcare Representative,No,5-10 yrs,High,6842,82104,0.0154,Low,No
+1696,Research & Development,Laboratory Technician,No,10+ yrs,Mid,3986,47832,0.0154,Low,No
+250,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4450,53400,0.0154,Low,No
+23,Sales,Manager,No,10+ yrs,Very High,15427,185124,0.0154,Low,No
+254,Research & Development,Research Director,No,10+ yrs,Very High,18722,224664,0.0153,Low,No
+1687,Research & Development,Laboratory Technician,No,0-2 yrs,Mid,3306,39672,0.0153,Low,No
+581,Research & Development,Manufacturing Director,No,10+ yrs,Very High,10648,127776,0.0151,Low,No
+771,Research & Development,Healthcare Representative,No,0-2 yrs,Mid,5093,61116,0.0151,Low,No
+691,Research & Development,Research Scientist,No,10+ yrs,High,6646,79752,0.0151,Low,No
+18,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2661,31932,0.015,Low,No
+244,Sales,Sales Executive,No,10+ yrs,Very High,10453,125436,0.015,Low,No
+901,Research & Development,Research Director,No,10+ yrs,Very High,14275,171300,0.0149,Low,No
+410,Sales,Manager,No,10+ yrs,Very High,16015,192180,0.0148,Low,No
+1349,Sales,Sales Executive,No,5-10 yrs,Mid,4103,49236,0.0148,Low,No
+1871,Research & Development,Research Scientist,No,2-5 yrs,Mid,3902,46824,0.0148,Low,No
+859,Sales,Sales Executive,No,5-10 yrs,Mid,4403,52836,0.0148,Low,No
+298,Sales,Manager,Yes,0-2 yrs,Very High,13591,163092,0.0147,Low,No
+52,Sales,Sales Executive,No,5-10 yrs,High,5376,64512,0.0145,Low,No
+1449,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,3975,47700,0.0145,Low,No
+1973,Human Resources,Manager,Yes,10+ yrs,Very High,19636,235632,0.0144,Low,No
+1772,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2289,27468,0.0143,Low,No
+1628,Research & Development,Manufacturing Director,No,10+ yrs,Very High,10435,125220,0.0143,Low,No
+1866,Research & Development,Manager,No,10+ yrs,Very High,19392,232704,0.0143,Low,No
+153,Research & Development,Manager,No,10+ yrs,Very High,11631,139572,0.0142,Low,No
+1018,Research & Development,Manufacturing Director,No,5-10 yrs,High,5472,65664,0.0142,Low,No
+1729,Research & Development,Research Scientist,No,10+ yrs,Low,2862,34344,0.0141,Low,No
+231,Research & Development,Research Scientist,No,5-10 yrs,Low,3038,36456,0.0141,Low,No
+664,Research & Development,Manager,No,2-5 yrs,Very High,15402,184824,0.014,Low,No
+675,Research & Development,Research Scientist,No,2-5 yrs,Low,2773,33276,0.0139,Low,No
+1763,Research & Development,Healthcare Representative,No,5-10 yrs,High,5294,63528,0.0139,Low,No
+1308,Research & Development,Research Scientist,No,2-5 yrs,Low,2372,28464,0.0139,Low,No
+1121,Research & Development,Manufacturing Director,No,5-10 yrs,High,7655,91860,0.0138,Low,No
+1280,Sales,Manager,No,10+ yrs,Very High,18789,225468,0.0137,Low,No
+1900,Research & Development,Manager,No,10+ yrs,Very High,17174,206088,0.0136,Low,No
+1934,Research & Development,Research Scientist,No,5-10 yrs,High,5467,65604,0.0135,Low,No
+869,Human Resources,Human Resources,No,5-10 yrs,Mid,4936,59232,0.0135,Low,No
+893,Sales,Sales Representative,No,2-5 yrs,Low,2899,34788,0.0134,Low,No
+972,Research & Development,Laboratory Technician,No,5-10 yrs,Mid,4447,53364,0.0134,Low,No
+491,Research & Development,Healthcare Representative,No,2-5 yrs,Very High,10496,125952,0.0133,Low,No
+2024,Sales,Sales Executive,No,5-10 yrs,High,7644,91728,0.0133,Low,No
+426,Research & Development,Research Scientist,Yes,2-5 yrs,Low,2695,32340,0.0133,Low,No
+1969,Research & Development,Research Scientist,No,2-5 yrs,Low,2897,34764,0.013,Low,No
+83,Research & Development,Healthcare Representative,No,10+ yrs,Very High,10096,121152,0.013,Low,No
+1497,Sales,Sales Executive,No,10+ yrs,High,8620,103440,0.0129,Low,No
+139,Research & Development,Healthcare Representative,No,0-2 yrs,Mid,5163,61956,0.0128,Low,No
+966,Research & Development,Manufacturing Director,No,5-10 yrs,High,6725,80700,0.0128,Low,No
+1422,Research & Development,Research Director,No,10+ yrs,Very High,17328,207936,0.0128,Low,No
+499,Research & Development,Healthcare Representative,No,5-10 yrs,Very High,10965,131580,0.0127,Low,No
+1722,Human Resources,Human Resources,No,2-5 yrs,High,6430,77160,0.0127,Low,No
+1764,Research & Development,Research Scientist,No,5-10 yrs,Low,2718,32616,0.0126,Low,No
+422,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,5660,67920,0.0126,Low,No
+1854,Research & Development,Research Scientist,No,5-10 yrs,Low,2936,35232,0.0125,Low,No
+126,Research & Development,Research Director,No,2-5 yrs,Very High,13549,162588,0.0124,Low,No
+117,Research & Development,Healthcare Representative,No,10+ yrs,Mid,4152,49824,0.0123,Low,No
+1256,Research & Development,Manager,No,0-2 yrs,Very High,18711,224532,0.0123,Low,No
+256,Research & Development,Manufacturing Director,No,10+ yrs,Very High,9547,114564,0.0122,Low,No
+381,Research & Development,Manager,No,5-10 yrs,Very High,11996,143952,0.0122,Low,No
+714,Sales,Sales Executive,Yes,5-10 yrs,Mid,4647,55764,0.0122,Low,No
+21,Research & Development,Research Scientist,Yes,5-10 yrs,Mid,3298,39576,0.0122,Low,No
+1847,Research & Development,Research Scientist,Yes,0-2 yrs,High,6962,83544,0.0122,Low,No
+1771,Research & Development,Research Scientist,No,5-10 yrs,Low,3055,36660,0.0121,Low,No
+242,Research & Development,Research Scientist,No,2-5 yrs,Low,2500,30000,0.0121,Low,No
+1241,Research & Development,Research Scientist,Yes,10+ yrs,Mid,3579,42948,0.012,Low,No
+1195,Research & Development,Research Scientist,Yes,2-5 yrs,Mid,4477,53724,0.0118,Low,No
+372,Research & Development,Healthcare Representative,Yes,10+ yrs,Very High,13496,161952,0.0118,Low,No
+292,Research & Development,Manufacturing Director,No,10+ yrs,High,8474,101688,0.0117,Low,No
+178,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4941,59292,0.0117,Low,No
+887,Research & Development,Research Scientist,No,2-5 yrs,Mid,3580,42960,0.0116,Low,No
+1259,Research & Development,Research Scientist,No,5-10 yrs,Low,2517,30204,0.0116,Low,No
+1911,Research & Development,Research Director,No,10+ yrs,Very High,13348,160176,0.0116,Low,No
+1340,Research & Development,Research Scientist,No,2-5 yrs,Mid,3544,42528,0.0115,Low,No
+909,Human Resources,Human Resources,No,5-10 yrs,Mid,5204,62448,0.0115,Low,No
+307,Sales,Sales Executive,No,10+ yrs,Very High,10609,127308,0.0115,Low,No
+249,Research & Development,Laboratory Technician,No,2-5 yrs,Mid,3690,44280,0.0114,Low,No
+312,Sales,Sales Executive,No,10+ yrs,High,7918,95016,0.0114,Low,No
+1367,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,13142,157704,0.0114,Low,No
+1859,Research & Development,Healthcare Representative,No,5-10 yrs,High,6384,76608,0.0113,Low,No
+1291,Research & Development,Research Scientist,Yes,2-5 yrs,Mid,3506,42072,0.0113,Low,No
+571,Research & Development,Laboratory Technician,No,10+ yrs,Low,2564,30768,0.0112,Low,No
+1474,Research & Development,Research Scientist,No,2-5 yrs,Low,2345,28140,0.0112,Low,No
+393,Research & Development,Healthcare Representative,No,2-5 yrs,High,5745,68940,0.0111,Low,No
+421,Research & Development,Research Director,No,10+ yrs,Very High,12061,144732,0.0111,Low,No
+1623,Research & Development,Research Scientist,No,2-5 yrs,Low,3117,37404,0.011,Low,No
+1666,Research & Development,Research Director,No,10+ yrs,Very High,17603,211236,0.011,Low,No
+824,Research & Development,Research Scientist,No,10+ yrs,Low,2700,32400,0.0109,Low,No
+661,Research & Development,Research Director,Yes,0-2 yrs,Very High,16627,199524,0.0109,Low,No
+1598,Sales,Sales Executive,No,5-10 yrs,Mid,4639,55668,0.0108,Low,No
+1109,Research & Development,Manager,No,10+ yrs,Very High,17665,211980,0.0107,Low,No
+1080,Research & Development,Research Scientist,Yes,10+ yrs,Mid,4615,55380,0.0107,Low,No
+725,Research & Development,Manufacturing Director,No,5-10 yrs,High,7412,88944,0.0107,Low,No
+623,Research & Development,Manufacturing Director,No,5-10 yrs,High,7491,89892,0.0106,Low,No
+1728,Research & Development,Manufacturing Director,No,5-10 yrs,High,6883,82596,0.0106,Low,No
+1737,Research & Development,Laboratory Technician,Yes,5-10 yrs,High,6472,77664,0.0106,Low,No
+544,Research & Development,Research Scientist,No,2-5 yrs,Low,2654,31848,0.0106,Low,No
+327,Sales,Manager,Yes,10+ yrs,Very High,16064,192768,0.0105,Low,No
+460,Research & Development,Manufacturing Director,No,5-10 yrs,High,6347,76164,0.0105,Low,No
+1024,Research & Development,Healthcare Representative,No,10+ yrs,Very High,10999,131988,0.0105,Low,No
+655,Research & Development,Research Scientist,No,5-10 yrs,Low,2187,26244,0.0104,Low,No
+1382,Research & Development,Research Scientist,No,2-5 yrs,Low,2610,31320,0.0104,Low,No
+551,Research & Development,Healthcare Representative,No,5-10 yrs,Mid,4523,54276,0.0103,Low,No
+1937,Research & Development,Research Scientist,Yes,10+ yrs,Low,2133,25596,0.0102,Low,No
+28,Research & Development,Research Director,No,10+ yrs,Very High,11994,143928,0.0102,Low,No
+369,Research & Development,Healthcare Representative,No,5-10 yrs,Mid,4000,48000,0.0102,Low,No
+601,Research & Development,Manufacturing Director,No,10+ yrs,Very High,13237,158844,0.0102,Low,No
+1363,Research & Development,Manufacturing Director,No,10+ yrs,High,7898,94776,0.0101,Low,No
+420,Sales,Sales Executive,No,10+ yrs,High,5484,65808,0.0101,Low,No
+1044,Sales,Sales Representative,No,2-5 yrs,Low,2342,28104,0.01,Low,No
+1546,Research & Development,Research Scientist,No,5-10 yrs,Low,2132,25584,0.01,Low,No
+40,Research & Development,Healthcare Representative,Yes,2-5 yrs,High,6465,77580,0.0099,Low,No
+107,Research & Development,Research Scientist,Yes,10+ yrs,High,5329,63948,0.0099,Low,No
+1867,Research & Development,Research Director,No,10+ yrs,Very High,19665,235980,0.0097,Low,No
+634,Research & Development,Healthcare Representative,No,0-2 yrs,Very High,9824,117888,0.0095,Low,No
+1268,Sales,Sales Executive,Yes,5-10 yrs,High,8380,100560,0.0093,Low,No
+1873,Research & Development,Research Scientist,No,5-10 yrs,Low,2662,31944,0.0091,Low,No
+1238,Research & Development,Research Scientist,No,10+ yrs,Low,2781,33372,0.009,Low,No
+888,Research & Development,Laboratory Technician,No,5-10 yrs,Low,3162,37944,0.009,Low,No
+1355,Sales,Sales Executive,No,5-10 yrs,High,6893,82716,0.009,Low,No
+707,Sales,Sales Executive,No,2-5 yrs,Mid,4851,58212,0.0089,Low,No
+1483,Research & Development,Research Scientist,No,10+ yrs,Mid,4900,58800,0.0089,Low,No
+531,Research & Development,Manager,Yes,10+ yrs,Very High,19197,230364,0.0088,Low,No
+1590,Research & Development,Healthcare Representative,No,5-10 yrs,Very High,8853,106236,0.0085,Low,No
+1099,Research & Development,Healthcare Representative,No,2-5 yrs,High,7119,85428,0.0085,Low,No
+1955,Research & Development,Healthcare Representative,No,5-10 yrs,High,6667,80004,0.0085,Low,No
+350,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4898,58776,0.0084,Low,No
+1595,Research & Development,Manager,No,0-2 yrs,Very High,19613,235356,0.0082,Low,No
+1651,Research & Development,Healthcare Representative,No,2-5 yrs,High,8008,96096,0.0082,Low,No
+429,Research & Development,Manager,Yes,10+ yrs,Very High,17068,204816,0.0082,Low,No
+2052,Research & Development,Research Scientist,No,2-5 yrs,Low,2977,35724,0.0082,Low,No
+820,Research & Development,Manager,Yes,10+ yrs,Very High,16752,201024,0.0081,Low,No
+826,Research & Development,Research Scientist,No,2-5 yrs,Low,2506,30072,0.0081,Low,No
+1976,Research & Development,Research Scientist,No,10+ yrs,Mid,4332,51984,0.0081,Low,No
+461,Research & Development,Research Director,Yes,10+ yrs,Very High,11510,138120,0.008,Low,No
+1471,Research & Development,Laboratory Technician,No,5-10 yrs,Low,3162,37944,0.008,Low,No
+319,Research & Development,Manager,No,10+ yrs,Very High,19232,230784,0.008,Low,No
+287,Research & Development,Healthcare Representative,No,2-5 yrs,Mid,4876,58512,0.008,Low,No
+1166,Research & Development,Research Director,No,10+ yrs,Very High,13499,161988,0.0079,Low,No
+1278,Research & Development,Healthcare Representative,Yes,10+ yrs,Very High,13577,162924,0.0079,Low,No
+264,Research & Development,Manager,No,10+ yrs,Very High,16792,201504,0.0078,Low,No
+1999,Research & Development,Research Scientist,No,5-10 yrs,Low,2782,33384,0.0077,Low,No
+999,Research & Development,Research Director,No,10+ yrs,Very High,19419,233028,0.0076,Low,No
+843,Research & Development,Research Director,No,2-5 yrs,Very High,17159,205908,0.0076,Low,No
+1162,Research & Development,Research Scientist,No,2-5 yrs,Low,2539,30468,0.0075,Low,No
+894,Research & Development,Laboratory Technician,Yes,5-10 yrs,High,5231,62772,0.0075,Low,No
+1670,Sales,Sales Executive,No,5-10 yrs,High,5505,66060,0.0075,Low,No
+546,Research & Development,Manager,No,5-10 yrs,Very High,16555,198660,0.0074,Low,No
+1986,Sales,Sales Executive,No,10+ yrs,High,5677,68124,0.0074,Low,No
+867,Research & Development,Manufacturing Director,No,5-10 yrs,Very High,13826,165912,0.0074,Low,No
+1607,Research & Development,Research Scientist,No,2-5 yrs,Mid,3312,39744,0.0074,Low,No
+501,Research & Development,Research Scientist,No,2-5 yrs,Low,2543,30516,0.0073,Low,No
+36,Research & Development,Healthcare Representative,No,10+ yrs,Very High,10248,122976,0.0073,Low,No
+520,Research & Development,Research Director,No,10+ yrs,Very High,14336,172032,0.0073,Low,No
+569,Research & Development,Manager,No,10+ yrs,Very High,17046,204552,0.0073,Low,No
+1514,Research & Development,Manufacturing Director,No,5-10 yrs,High,6549,78588,0.0073,Low,No
+1661,Research & Development,Healthcare Representative,Yes,10+ yrs,Very High,13966,167592,0.0073,Low,No
+1655,Research & Development,Research Director,No,2-5 yrs,Very High,16413,196956,0.0072,Low,No
+341,Research & Development,Manufacturing Director,No,2-5 yrs,High,6434,77208,0.0072,Low,No
+847,Human Resources,Human Resources,No,2-5 yrs,Mid,3737,44844,0.0071,Low,No
+902,Research & Development,Healthcare Representative,No,5-10 yrs,High,5562,66744,0.0071,Low,No
+143,Research & Development,Research Scientist,No,2-5 yrs,Low,2889,34668,0.0071,Low,No
+1443,Research & Development,Research Director,No,10+ yrs,Very High,17169,206028,0.0071,Low,No
+1922,Research & Development,Healthcare Representative,No,2-5 yrs,High,5399,64788,0.0071,Low,No
+1027,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4227,50724,0.0071,Low,No
+395,Research & Development,Research Scientist,No,5-10 yrs,Mid,3310,39720,0.0071,Low,No
+1361,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2387,28644,0.007,Low,No
+529,Research & Development,Research Scientist,Yes,10+ yrs,Mid,4449,53388,0.007,Low,No
+377,Research & Development,Research Scientist,No,5-10 yrs,Low,2070,24840,0.0069,Low,No
+2007,Research & Development,Research Scientist,No,2-5 yrs,Mid,3375,40500,0.0069,Low,No
+447,Research & Development,Research Director,No,2-5 yrs,Very High,18300,219600,0.0068,Low,No
+1552,Research & Development,Healthcare Representative,Yes,2-5 yrs,Mid,4069,48828,0.0068,Low,No
+969,Research & Development,Healthcare Representative,No,5-10 yrs,High,6949,83388,0.0068,Low,No
+1890,Human Resources,Human Resources,No,10+ yrs,Mid,3886,46632,0.0067,Low,No
+1369,Research & Development,Laboratory Technician,No,5-10 yrs,High,5363,64356,0.0067,Low,No
+1954,Research & Development,Healthcare Representative,No,5-10 yrs,High,5373,64476,0.0067,Low,No
+1707,Research & Development,Research Scientist,No,5-10 yrs,Mid,4401,52812,0.0066,Low,No
+1888,Research & Development,Manufacturing Director,No,5-10 yrs,High,5906,70872,0.0066,Low,No
+949,Research & Development,Research Scientist,No,5-10 yrs,Mid,4678,56136,0.0065,Low,No
+26,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4011,48132,0.0064,Low,No
+1026,Research & Development,Manufacturing Director,No,10+ yrs,Very High,12742,152904,0.0063,Low,No
+827,Research & Development,Manufacturing Director,Yes,2-5 yrs,High,6062,72744,0.0063,Low,No
+253,Research & Development,Manager,No,10+ yrs,Very High,19033,228396,0.0061,Low,No
+452,Research & Development,Research Scientist,No,10+ yrs,Mid,3697,44364,0.0059,Low,No
+1088,Research & Development,Healthcare Representative,No,10+ yrs,High,8823,105876,0.0059,Low,No
+441,Research & Development,Research Scientist,No,10+ yrs,High,5775,69300,0.0059,Low,No
+1744,Human Resources,Human Resources,No,5-10 yrs,Very High,9756,117072,0.0059,Low,No
+517,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2576,30912,0.0058,Low,No
+757,Research & Development,Healthcare Representative,No,5-10 yrs,High,6142,73704,0.0058,Low,No
+1005,Research & Development,Manufacturing Director,Yes,10+ yrs,Very High,13973,167676,0.0058,Low,No
+1383,Research & Development,Healthcare Representative,No,10+ yrs,High,6687,80244,0.0057,Low,No
+1346,Research & Development,Research Scientist,No,5-10 yrs,Mid,4661,55932,0.0057,Low,No
+630,Research & Development,Research Scientist,Yes,10+ yrs,High,5577,66924,0.0056,Low,No
+338,Research & Development,Research Scientist,No,2-5 yrs,Low,2911,34932,0.0055,Low,No
+1941,Research & Development,Research Director,No,5-10 yrs,Very High,19161,229932,0.0054,Low,No
+526,Research & Development,Healthcare Representative,Yes,5-10 yrs,Mid,4522,54264,0.0054,Low,No
+1085,Research & Development,Research Scientist,No,10+ yrs,Mid,3376,40512,0.0053,Low,No
+1201,Research & Development,Manager,No,5-10 yrs,Very High,18606,223272,0.0053,Low,No
+1625,Human Resources,Manager,No,5-10 yrs,Very High,19658,235896,0.0053,Low,No
+1627,Research & Development,Laboratory Technician,No,10+ yrs,Low,3069,36828,0.0052,Low,No
+1653,Research & Development,Manufacturing Director,No,5-10 yrs,High,5206,62472,0.005,Low,No
+86,Research & Development,Research Scientist,No,0-2 yrs,Very High,9724,116688,0.005,Low,No
+2048,Research & Development,Research Scientist,No,2-5 yrs,Low,2809,33708,0.0049,Low,No
+32,Research & Development,Manager,No,10+ yrs,Very High,19094,229128,0.0048,Low,No
+1799,Research & Development,Research Scientist,No,5-10 yrs,Low,2044,24528,0.0048,Low,No
+2017,Research & Development,Research Director,Yes,10+ yrs,Very High,13744,164928,0.0048,Low,No
+1703,Research & Development,Healthcare Representative,Yes,5-10 yrs,High,7879,94548,0.0047,Low,No
+1774,Sales,Sales Executive,Yes,10+ yrs,Mid,4001,48012,0.0046,Low,No
+1858,Human Resources,Human Resources,No,2-5 yrs,Low,2706,32472,0.0046,Low,No
+140,Human Resources,Manager,No,2-5 yrs,Very High,18844,226128,0.0046,Low,No
+791,Research & Development,Research Scientist,No,2-5 yrs,Mid,4258,51096,0.0046,Low,No
+996,Research & Development,Laboratory Technician,No,5-10 yrs,Low,2270,27240,0.0046,Low,No
+96,Research & Development,Research Scientist,No,10+ yrs,High,6220,74640,0.0045,Low,No
+1870,Research & Development,Research Scientist,No,5-10 yrs,Mid,4774,57288,0.0045,Low,No
+1580,Research & Development,Research Scientist,No,2-5 yrs,High,5484,65808,0.0044,Low,No
+1408,Human Resources,Manager,No,10+ yrs,Very High,16799,201588,0.0044,Low,No
+252,Research & Development,Research Scientist,No,5-10 yrs,Low,2756,33072,0.0043,Low,No
+550,Research & Development,Manufacturing Director,No,10+ yrs,Mid,4810,57720,0.0043,Low,No
+2026,Research & Development,Healthcare Representative,No,10+ yrs,High,6306,75672,0.0043,Low,No
+1468,Research & Development,Research Director,No,5-10 yrs,Very High,13757,165084,0.0043,Low,No
+1250,Research & Development,Research Director,No,10+ yrs,Very High,17779,213348,0.0043,Low,No
+464,Research & Development,Manufacturing Director,No,10+ yrs,High,8095,97140,0.0042,Low,No
+1665,Research & Development,Manager,No,10+ yrs,Very High,17426,209112,0.0042,Low,No
+1231,Human Resources,Human Resources,No,2-5 yrs,High,6272,75264,0.0042,Low,No
+1215,Research & Development,Manager,No,2-5 yrs,Very High,17856,214272,0.0041,Low,No
+1970,Research & Development,Healthcare Representative,No,5-10 yrs,High,5968,71616,0.0041,Low,No
+1940,Research & Development,Research Scientist,No,5-10 yrs,Mid,4771,57252,0.0041,Low,No
+1618,Research & Development,Manufacturing Director,No,5-10 yrs,High,5377,64524,0.0041,Low,No
+373,Research & Development,Laboratory Technician,No,10+ yrs,Low,3210,38520,0.004,Low,No
+1115,Research & Development,Research Scientist,No,0-2 yrs,Low,2979,35748,0.0039,Low,No
+119,Research & Development,Healthcare Representative,No,10+ yrs,Very High,13503,162036,0.0039,Low,No
+465,Research & Development,Research Scientist,No,2-5 yrs,Low,2904,34848,0.0039,Low,No
+1778,Human Resources,Human Resources,No,5-10 yrs,Mid,3539,42468,0.0039,Low,No
+1117,Sales,Sales Executive,No,10+ yrs,High,5593,67116,0.0039,Low,No
+77,Research & Development,Manufacturing Director,No,5-10 yrs,High,5993,71916,0.0038,Low,No
+262,Research & Development,Research Scientist,No,5-10 yrs,Low,2089,25068,0.0038,Low,No
+380,Research & Development,Research Director,Yes,5-10 yrs,Very High,13603,163236,0.0038,Low,No
+1484,Research & Development,Healthcare Representative,No,5-10 yrs,Very High,10466,125592,0.0037,Low,No
+734,Human Resources,Manager,No,10+ yrs,Very High,19189,230268,0.0037,Low,No
+1047,Sales,Sales Executive,No,10+ yrs,Very High,9725,116700,0.0037,Low,No
+270,Research & Development,Manufacturing Director,No,5-10 yrs,High,5265,63180,0.0036,Low,No
+1069,Research & Development,Research Director,No,2-5 yrs,Very High,19627,235524,0.0035,Low,No
+579,Research & Development,Research Scientist,No,5-10 yrs,Low,2768,33216,0.0035,Low,No
+1834,Research & Development,Research Scientist,No,2-5 yrs,Mid,3591,43092,0.0035,Low,No
+1116,Research & Development,Manager,No,5-10 yrs,Very High,16885,202620,0.0034,Low,No
+638,Research & Development,Research Director,Yes,10+ yrs,Very High,19502,234024,0.0034,Low,No
+1344,Research & Development,Healthcare Representative,No,5-10 yrs,High,8500,102000,0.0031,Low,No
+830,Research & Development,Manufacturing Director,No,10+ yrs,High,6162,73944,0.0031,Low,No
+323,Sales,Manager,No,5-10 yrs,Very High,19517,234204,0.0031,Low,No
+659,Research & Development,Healthcare Representative,No,10+ yrs,Mid,4089,49068,0.003,Low,No
+308,Research & Development,Manufacturing Director,No,5-10 yrs,Mid,4345,52140,0.003,Low,No
+882,Research & Development,Laboratory Technician,No,2-5 yrs,Low,2314,27768,0.003,Low,No
+1375,Research & Development,Healthcare Representative,No,10+ yrs,High,6377,76524,0.0029,Low,No
+976,Research & Development,Manager,No,5-10 yrs,Very High,17099,205188,0.0029,Low,No
+612,Research & Development,Research Director,No,5-10 yrs,Very High,16184,194208,0.0028,Low,No
+1574,Research & Development,Research Scientist,No,5-10 yrs,Mid,4087,49044,0.0028,Low,No
+1263,Research & Development,Research Director,No,0-2 yrs,Very High,18265,219180,0.0027,Low,No
+1671,Research & Development,Research Scientist,No,5-10 yrs,High,5470,65640,0.0027,Low,No
+1668,Research & Development,Research Scientist,No,10+ yrs,Mid,4735,56820,0.0027,Low,No
+1246,Research & Development,Research Scientist,No,10+ yrs,Low,2011,24132,0.0027,Low,No
+391,Research & Development,Research Scientist,No,10+ yrs,Low,2115,25380,0.0026,Low,No
+482,Research & Development,Healthcare Representative,No,2-5 yrs,High,6755,81060,0.0026,Low,No
+1658,Research & Development,Research Scientist,No,10+ yrs,High,5433,65196,0.0026,Low,No
+1196,Research & Development,Manufacturing Director,No,10+ yrs,High,6474,77688,0.0026,Low,No
+1520,Research & Development,Manager,No,10+ yrs,Very High,16032,192384,0.0026,Low,No
+2051,Research & Development,Research Scientist,No,5-10 yrs,Low,2001,24012,0.0025,Low,No
+1397,Research & Development,Healthcare Representative,No,5-10 yrs,Very High,10920,131040,0.0024,Low,No
+1423,Research & Development,Research Director,Yes,5-10 yrs,Very High,19701,236412,0.0024,Low,No
+730,Research & Development,Research Director,No,5-10 yrs,Very High,14814,177768,0.0023,Low,No
+1644,Research & Development,Manager,No,2-5 yrs,Very High,15202,182424,0.0022,Low,No
+1045,Sales,Manager,No,5-10 yrs,Very High,17650,211800,0.0021,Low,No
+1662,Research & Development,Manufacturing Director,No,2-5 yrs,Mid,4374,52488,0.0021,Low,No
+1697,Research & Development,Healthcare Representative,No,0-2 yrs,Very High,10883,130596,0.002,Low,No
+1255,Research & Development,Research Director,No,5-10 yrs,Very High,19740,236880,0.0019,Low,No
+2022,Research & Development,Manager,No,5-10 yrs,Very High,19431,233172,0.0018,Low,No
+1755,Research & Development,Research Scientist,Yes,5-10 yrs,Low,2932,35184,0.0018,Low,No
+1608,Research & Development,Research Director,Yes,10+ yrs,Very High,19049,228588,0.0017,Low,No
+94,Research & Development,Research Scientist,No,5-10 yrs,Low,2703,32436,0.0017,Low,No
+1040,Sales,Sales Executive,No,10+ yrs,High,6347,76164,0.0016,Low,No
+950,Research & Development,Research Director,No,10+ yrs,Very High,13582,162984,0.0015,Low,No
+1804,Research & Development,Manufacturing Director,No,5-10 yrs,High,5762,69144,0.0014,Low,No
+683,Research & Development,Research Scientist,No,10+ yrs,Low,2691,32292,0.0014,Low,No
+2015,Research & Development,Research Director,No,10+ yrs,Very High,13206,158472,0.0014,Low,No
+1822,Research & Development,Healthcare Representative,No,5-10 yrs,High,6513,78156,0.0013,Low,No
+797,Research & Development,Research Scientist,No,2-5 yrs,Mid,3280,39360,0.0013,Low,No
+1288,Research & Development,Manager,No,10+ yrs,Very High,19190,230280,0.0012,Low,No
+724,Research & Development,Healthcare Representative,No,5-10 yrs,High,7625,91500,0.0012,Low,No
+352,Research & Development,Research Director,No,10+ yrs,Very High,19436,233232,0.0012,Low,No
+46,Research & Development,Research Scientist,No,5-10 yrs,Low,2645,31740,0.0012,Low,No
+336,Research & Development,Manager,No,10+ yrs,Very High,19202,230424,0.0012,Low,No
+1903,Research & Development,Healthcare Representative,No,2-5 yrs,Mid,5033,60396,0.001,Low,No
+1630,Research & Development,Healthcare Representative,No,10+ yrs,Mid,4148,49776,0.001,Low,No
+558,Sales,Manager,No,10+ yrs,Very High,18041,216492,0.0009,Low,No
+1712,Research & Development,Healthcare Representative,No,10+ yrs,Very High,10748,128976,0.0007,Low,No
+1264,Research & Development,Research Director,No,5-10 yrs,Very High,16124,193488,0.0007,Low,No
+1424,Research & Development,Research Director,No,5-10 yrs,Very High,14732,176784,0.0006,Low,No
+997,Research & Development,Research Director,No,5-10 yrs,Very High,17399,208788,0.0005,Low,No

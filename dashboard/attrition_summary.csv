@@ -1,0 +1,15 @@
+dimension,dimension_value,headcount,attrition_count,attrition_rate_pct
+Overall,All employees,1470,237,16.12
+Department,Sales,446,92,20.63
+Department,Human Resources,63,12,19.05
+Department,Research & Development,961,133,13.84
+OverTime,Yes,416,127,30.53
+OverTime,No,1054,110,10.44
+TenureBand,0-2 yrs,215,75,34.88
+TenureBand,2-5 yrs,365,66,18.08
+TenureBand,5-10 yrs,524,58,11.07
+TenureBand,10+ yrs,366,38,10.38
+SalaryBand,Low,368,108,29.35
+SalaryBand,Mid,368,52,14.13
+SalaryBand,High,367,39,10.63
+SalaryBand,Very High,367,38,10.35
